@@ -6,4 +6,4 @@ feature_image: "/assets/isis.png"
 
 The Neutron Scattering Group is a group of the Royal Society of Chemistry and the Institute of Physics.
 We hold the remit to represent UK users of neutron scattering techniques within these learned society.
-Additionally, we award the [BTM Willis Prize](./willis) annually and wered involve in the organisation of the [Faraday Joint Interest Group Conference](https://warwick.ac.uk/fac/sci/chemistry/news/events/faraday2017/) in 2017.
+Additionally, we award the [BTM Willis Prize](./willis) annually and were involve in the organisation of the [Faraday Joint Interest Group Conference](https://warwick.ac.uk/fac/sci/chemistry/news/events/faraday2017/) in 2017.
