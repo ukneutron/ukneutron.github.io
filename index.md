@@ -1,8 +1,5 @@
 ---
 title: Neutron Scattering Group
-feature_text: |
-  ## NSG
-  Representing UK users of neutron scattering
 feature_image: "/assets/isis.png"
 #excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
