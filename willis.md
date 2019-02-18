@@ -8,11 +8,11 @@ In 2007, the NSG established the BTM Willis Prize in honour of our founding chai
 
 The prize is awarded to an individual in recognition of a single outstanding piece of work, or a longer term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
 
-Eligibility
+## Eligibility
 
 The recipient of the prize will normally be an early career scientist, i.e. in the first 12 years of a research career (allowing for career breaks), who has made a substantial contribution to the development or reputation of neutron scattering in the UK or Ireland.
 
-Previous Winners
+## Previous Winners
 
 - 2018:
 - 2017: Dr Andrew Seel - University College London
