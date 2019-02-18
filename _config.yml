@@ -87,10 +87,10 @@ logo: "/assets/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately" # Site description and default description, also used in jekyll-seo-tag
 url: "https://alembic.darn.es" # Site url, also used in jekyll-seo-tag
 baseurl: ""
-repo: "https://github.com/daviddarnes/alembic"
+repo: "https://github.com/ukneutron/ukneutron.github.io"
 email: "me@daviddarnes.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
-avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
+#avatarurl: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
 # google_analytics: ''
 # service_worker: false # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
@@ -98,22 +98,23 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 # 8. Site navigation
 navigation_header:
   Home: /
-  Elements: /elements/
-  Blog: /blog/
-  Categories: /categories/
+  BTW Willis Prize: /willis/
+  Committee: /committee/
+  News: /blog/
+  #Categories: /categories/
   Search: /search/
-  Fork Alembic: https://github.com/daviddarnes/alembic
+  #Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-  Created by David Darnes: https://darn.es
+  Created by Andrew McCluskey & Sanghamitra Mukhopadhyay:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  Google+: https://plus.google.com/+DavidDarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
-  RSS: /feed.xml
+  Twitter: https://twitter.com/ukneutron
+  #LinkedIn: https://www.linkedin.com/in/daviddarnes
+  #Google+: https://plus.google.com/+DavidDarnes
+  GitHub: https://github.com/ukneutron
+  #link: https://darn.es
+  #RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
