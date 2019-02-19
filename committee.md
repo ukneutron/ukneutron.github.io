@@ -5,7 +5,7 @@ sitemap: false
 ---
 
 The NSG Committee consists of the following members:
-- Felix Fernandez-Alonso (**Chair**) - ISIS Neutron and Muon Source
+- Felix Fernandez-Alonso (**Chair**) - UK Research & Innovation & University College London
 - Katharina Edkins (**Secretary**) - Queen's University Belfast
 - Elisabetta Canetta (**Treasurer**) - St Mary's University
 - Yuri Gerelli (**ILL Representative**) - Institut Laue-Langevin
