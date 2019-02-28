@@ -17,7 +17,7 @@ The recipient of the prize will normally be an early career scientist, i.e. in t
 - 2018:
 - 2017: Dr Andrew Seel - University College London
 - 2016: Dr Katharina Edkins - Durham University
-- 2015: Dr Aleksandra Dabkowska, King's College
+- 2015: Dr Aleksandra Dabkowska, King's College London
 - 2014: Dr Anita Zeidler - University of Bath
 - 2013: Dr Sihai Yang - University of Nottingham
 - 2012: Dr Sylvia Ellen McLain - University of Oxford
