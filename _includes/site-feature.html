@@ -7,7 +7,19 @@
 {% endif %}
 
 {% if feature_text or feature_image %}
-  <div class="feature"{% if feature_image %} style="background-image: url({{ feature_image }})"{% endif %}>
+   <script>
+       // Image pool to select from
+       var images = [
+           'isis.png', 'ill.png'
+       ];
+
+       // Pick a random image
+       var maxImages   = images.length;
+       var rand        = Math.floor(Math.random() * maxImages);
+       var image       = images[rand];
+   </script>
+
+  <div class="feature"{% if feature_image %} style="background-image: url(/assets/"+image+")"{% endif %}>
     <div class="container  typeset">
       {{ feature_text | markdownify }}
     </div>
