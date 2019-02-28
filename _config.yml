@@ -63,7 +63,9 @@ collections:
     title: News # Needed for Siteleaf
     output: true
     #description: "" # The post list page content
-    feature_image: /assets/isis.png /assets/ill.png
+    feature_image:
+      - "/assets/isis.png"
+      - "/assets/ill.png"
 
 # 6. Jekyll collections settings
 defaults:
