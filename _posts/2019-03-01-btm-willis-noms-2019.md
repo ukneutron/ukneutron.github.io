@@ -3,7 +3,7 @@ title: BTM Willis Prize 2019 – Call for Nominations
 categories:
 - General
 excerpt: |
-  Nominations are open for the BTM Willis Prize 2019.
+  Nomination for the BTM Willis Prize 2019 is now closed.
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
