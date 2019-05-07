@@ -4,16 +4,16 @@ indexing: false
 sitemap: false
 ---
 
-In 2007, the NSG established the BTM Willis Prize in honour of our founding chairman, Prof. BTM Willis.
+In 2007, The IOP Neutron Scattering Group and the Faraday Division of the Royal Society of Chemistry established a prize for outstanding neutron scattering science in honour of the founding chairman of the Neutron Scattering Group, Professor B T M Willis.
 
 The prize is awarded to an individual in recognition of a single outstanding piece of work, or a longer term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
 
 ## Eligibility
 
-The recipient of the prize will normally be an early career scientist, i.e. in the first 12 years of a research career (allowing for career breaks), who has made a substantial contribution to the development or reputation of neutron scattering in the UK or Ireland.
+The recipient of the prize will normally be an early career scientist, i.e. in the first 12 years of a research career (allowing for career breaks) following the award of a first degree, who has made a substantial contribution to the development or reputation of physics / Chemistry / Biology in the UK or Ireland.
 
 ## Previous Winners
-
+- 2019: Dr. Lucy Clark, University of Liverpool
 - 2018:
 - 2017: Dr Andrew Seel - University College London
 - 2016: Dr Katharina Edkins - Durham University
