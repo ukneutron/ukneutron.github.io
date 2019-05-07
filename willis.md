@@ -14,7 +14,7 @@ The recipient of the prize will normally be an early career scientist, i.e. in t
 
 ## Previous Winners
 - 2019: Dr. Lucy Clark, University of Liverpool
-- 2018:
+- 2018: Dr. Roger H. Johnson, University of Oxford
 - 2017: Dr Andrew Seel - University College London
 - 2016: Dr Katharina Edkins - Durham University
 - 2015: Dr Aleksandra Dabkowska, King's College London
