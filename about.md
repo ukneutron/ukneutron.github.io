@@ -14,9 +14,9 @@ geology, archeology, catalysis, biology and engineering, both in the academic an
 In the UK the neutron scattering field has been extensively supported by provision of facilities at 
 the [ISIS Neutron and Muon source](https://www.isis.stfc.ac.uk/Pages/home.aspx) at the Rutherford Appleton Laboratory in Oxfordshire, 
 funded by the Science and Technology Facilities Council ([STFC](https://stfc.ukri.org/)). 
-The UK is also major partner in the [Institut Laue-Langevin](https://www.ill.eu/) in Grenoble, France, 
+The UK is also major partner in the [Institut Laue-Langevin (ILL)](https://www.ill.eu/) in Grenoble, France, 
 which offers complementary instruments at a reactor source. In addition, the UK is funding and supporting 
-the building of the European Spallation Source ([ESS](https://europeanspallationsource.se/)] in Lund, Sweden, 
+the building of the [European Spallation Source (ESS)](https://europeanspallationsource.se/) in Lund, Sweden, 
 which will be the most powerful spallation source world-wide once it comes online in 2023.
 
 Due to the engagement in three major facilities, the NSG is representing the interest of 
