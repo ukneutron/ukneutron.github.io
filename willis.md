@@ -1,6 +1,6 @@
 ---
 title: BTM Willis Prize
-feature_image: "/assets/BTM Willis cite NSGNewsLetterFeb2012.jpg"
+feature_image: "/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg"
 indexing: false
 sitemap: false
 ---
