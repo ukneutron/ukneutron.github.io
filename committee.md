@@ -10,11 +10,12 @@ The NSG Committee consists of the following members:
 - Elisabetta Canetta (**Treasurer**) - St Mary's University
 - Yuri Gerelli (**ILL Representative**) - Institut Laue-Langevin
 - Melissa Sharp (**ESS Representative**) - European Spallation Source
+- Sanghamitra Mukhopadhyay (**ISIS Representative**)- ISIS Neutron and Muon Source
 - [Andrew McCluskey](https://armccluskey.com) (**Early Career Representative**) - University of Bath & Diamond Light Source
-- Don Paul (**ENSA Representative**) - University of Warwick
+- David Barlow (**ENSA Representative**) - King's College London
 - Richard Thompson (**Communications**) - Durham University
+- Don Paul - University of Warwick
 - Jayne Lawrence - University of Manchester
 - Richard Campbell- University of Manchester
-- David Barlow - King's College London
 - Eddie Cussen - University of Sheffield
-- Sanghamitra Mukhopadhyay - ISIS Neutron and Muon Source
+
