@@ -3,6 +3,7 @@ title: Call for Proposals for New Logo Design for the UK Neutron Scattering Grou
 categories:
 - General
 excerpt: Help us and win a voucher for IOP and RSC books
+Submission deadline: 31 October 2019
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
