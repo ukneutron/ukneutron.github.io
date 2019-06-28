@@ -3,13 +3,13 @@ title: Call for Proposals for New Logo Design for the UK Neutron Scattering Grou
 categories:
 - General
 excerpt: Help us and win a voucher for IOP and RSC books
-Submission deadline: 31 October 2019
+Submission: Submission deadline 31 October 2019
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
 ---
 The Neutron Scattering Group (NSG) is pleased to announce its new logo competition. This logo will represent the NSG in all official documents and communication tools.
 
-Submission deadline: 31 October 2019
+\bf {Submission deadline: 31 October 2019}
 
 Competition:
 The new NSG logo should be simple, modern, energetic and innovative. The logo must include both the letters of the “NSG” (or the letters can be placed next to the logo) and the full name of the Organisation. The logo shall be easily recognisable and, as such, should stand out and be different from other logos. The design should be in colour, but should also be usable in black and white. There are not specific colours that need to be included in the design. Due to the requirements for high quality printing and re-sizing,Entries must be submitted in scalable vector graphic format (EPS).
