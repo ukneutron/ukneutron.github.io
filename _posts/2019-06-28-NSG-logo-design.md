@@ -2,7 +2,7 @@
 title: Call for Proposals for New Logo Design for the UK Neutron Scattering Group
 categories:
 - General
-excerpt: Help us and win a voucher for IOP and RSC books.**Submit by 31 October 2019**
+excerpt: Help us and win a voucher for IOP and RSC books. **Submit by 31 October 2019**
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
 ---
