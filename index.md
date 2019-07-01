@@ -9,7 +9,7 @@ The Neutron Scattering Group is a group jointly hosted by Institute of Physics (
 
 We have about 500 members from 16 different countries around the world. 30% of our members are female. 
 
-We work closely with the [Faraday Division](https://www.rsc.org/Membership/Networking/InterestGroups/FaradayDivision/) of the RSc, as well as with other groups across the IOP & RSc, including those closely linked to the development of neutron sources, such as [Particle Accelaretors and Beams groups](http://www.iop.org/activity/groups/subject/pab/). 
+We work closely with the [Faraday Division](https://www.rsc.org/Membership/Networking/InterestGroups/FaradayDivision/) of the RSc, as well as with other groups across the IOP & RSc, including those closely linked to the development of neutron sources, such as [Particle Accelerators and Beams groups](http://www.iop.org/activity/groups/subject/pab/). 
 
 
 <center><a class="twitter-timeline" data-width="350" data-height="500" data-theme="light" href="https://twitter.com/UkNeutron?ref_src=twsrc%5Etfw">Tweets by UkNeutron</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
