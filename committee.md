@@ -18,4 +18,5 @@ The NSG Committee consists of the following members:
 - Jayne Lawrence - University of Manchester
 - Richard Campbell- University of Manchester
 - Eddie Cussen - University of Sheffield
+- Emma McCabe - University of Kent
 
