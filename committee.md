@@ -20,3 +20,4 @@ The NSG Committee consists of the following members:
 - Eddie Cussen - University of Sheffield
 - Emma McCabe - University of Kent
 
+You can get in touch with the committee using the following email address: [committee@ukneutron.org](mailto:committee@ukneutron.org)
