@@ -5,7 +5,7 @@ categories:
 excerpt: | 
   Venue: University of Sheffield, Sheffield, United Kingdom, 6–8 April 2020. **Abstract submission is now open.**
 feature_image: "/assets/Faraday2020.png"
-image: "/assets/Faraday2020.png" width=200
+image: "/assets/Faraday2020.png" 
 ---
 With a host of world-class speakers and a vibrant city location, the Faraday joint interest group conference is set to be a highlight for the physical chemistry and chemical physics community in 2020 - and you can be a part of it.
 Don't miss out on your chance to showcase your latest research.  
