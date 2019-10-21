@@ -10,6 +10,18 @@ image: "/assets/Faraday2020.png"
 With a host of world-class speakers and a vibrant city location, the Faraday joint interest group conference is set to be a highlight for the physical chemistry and chemical physics community in 2020 - and you can be a part of it.
 Don't miss out on your chance to showcase your latest research.  
 
+**Themes include**
+
+* Astrochemistry, observation and modelling
+* Biophysics and Imaging
+* Chemical dynamics and reactivity
+* Chemistry at surfaces
+* Magnetic and spintronic materials
+* Neutron spectroscopy and allied techniques
+* Photocatalysis, theory and applications
+* Photophysics of materials
+* Theoretical methods, development and applications
+
 The list of Keynote speakers are: 
 
 **Arantxa Arbe** CSIC-UPV, Spain
@@ -63,7 +75,7 @@ Registration is now open
 
 We hope to see you next April.
 
-**Anthony Meijer**
+**Anthony Meijer**,
 Chair of the scientific committee
 University of Sheffield, United Kingdom 
 
