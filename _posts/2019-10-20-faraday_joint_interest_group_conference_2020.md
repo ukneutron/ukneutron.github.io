@@ -66,14 +66,11 @@ Registration is now open
 [Please register now to secure your place](https://events.rsc.org/rsc/1783/register) and benefit from the fantastic savings currently available:
 
 * Discounted rates – save up to £25 by registering early
-
 * Bursaries available to students and members in the early stages of their career 
-
 * Travel grants – act now and [find out how much you could save ](http://www.rsc.org/scienceandtechnology/funding/division-travel-grants/index.asp)
-
 * Affiliate membership until the end of 2020 for all non-Royal Society of Chemistry members 
 
-We hope to see you next April.
+We hope to see you next April at Sheffield.
 
 **Anthony Meijer**,
 Chair of the scientific committee
