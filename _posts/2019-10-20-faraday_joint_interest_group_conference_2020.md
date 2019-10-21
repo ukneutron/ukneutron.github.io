@@ -2,7 +2,7 @@
 title: Faraday joint interest group conference 2020 
 categories:
 - General
-excerpt: 
+excerpt:| 
 Venue: University of Sheffield, Sheffield, United Kingdom, 6–8 April 2020.
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
