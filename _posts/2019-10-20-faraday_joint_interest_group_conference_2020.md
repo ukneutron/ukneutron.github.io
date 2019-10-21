@@ -24,41 +24,24 @@ Don't miss out on your chance to showcase your latest research.
 
 The list of Keynote speakers are: 
 
-**Arantxa Arbe** CSIC-UPV, Spain
-
-**Paola Caselli** Max Planck Institute, Germany
-
-**Majed Chergui** École Polytechnique Fédérale de Lausanne, Switzerland 
-
-**Jenny Clark** University of Sheffield, United Kingdom 
-
-**Andy Cooper** University of Liverpool, United Kingdom
-
-**Hazel Cox** University of Sussex, United Kingdom 
-
-**Gábor Csányi** University of Cambridge, United Kingdom
-
-**Basile Curchod** Durham University, United Kingdom
-
-**Ewine van Dishoeck** University of Leiden, Netherlands
-
-**Roman Fasel** EMPA, Switzerland
-
-**William Gannon** University of Kentucky, United States
-
-**Dwayne Heard** University of Leeds, United Kingdom
-
-**Philipp Kukura** University of Oxford, United Kingdom
-
-**Marsha I Lester** University of Pennsylvania, United States
-
-**Gail McConnell** University of Strathclyde, United Kingdom
-
-**Günther Rupprechter** TU Wien, Austria
-
-**Maria Sanz** King's College London, United Kingdom
-
-**Serena Viti** University College London, United Kingdom
+- **Arantxa Arbe** CSIC-UPV, Spain
+- **Paola Caselli** Max Planck Institute, Germany
+- **Majed Chergui** École Polytechnique Fédérale de Lausanne, Switzerland 
+- **Jenny Clark** University of Sheffield, United Kingdom 
+- **Andy Cooper** University of Liverpool, United Kingdom
+- **Hazel Cox** University of Sussex, United Kingdom 
+- **Gábor Csányi** University of Cambridge, United Kingdom
+- **Basile Curchod** Durham University, United Kingdom
+- **Ewine van Dishoeck** University of Leiden, Netherlands
+- **Roman Fasel** EMPA, Switzerland
+- **William Gannon** University of Kentucky, United States
+- **Dwayne Heard** University of Leeds, United Kingdom
+- **Philipp Kukura** University of Oxford, United Kingdom
+- **Marsha I Lester** University of Pennsylvania, United States
+- **Gail McConnell** University of Strathclyde, United Kingdom
+- **Günther Rupprechter** TU Wien, Austria
+- **Maria Sanz** King's College London, United Kingdom
+- **Serena Viti** University College London, United Kingdom
 
 [See our full list of speakers. ](http://www.rsc.org/events/detail/38381/)
 
