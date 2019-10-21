@@ -22,7 +22,7 @@ Don't miss out on your chance to showcase your latest research.
 * Photophysics of materials
 * Theoretical methods, development and applications
 
-The list of Keynote speakers are: 
+**The list of Keynote speakers are:** 
 
 - **Arantxa Arbe** CSIC-UPV, Spain
 - **Paola Caselli** Max Planck Institute, Germany
@@ -45,9 +45,8 @@ The list of Keynote speakers are:
 
 [See our full list of speakers. ](http://www.rsc.org/events/detail/38381/)
 
-Registration is now open 
-[Please register now to secure your place](https://events.rsc.org/rsc/1783/register) and benefit from the fantastic savings currently available:
-
+**Registration is now open**   
+[Please register now to secure your place](https://events.rsc.org/rsc/1783/register) and benefit from the fantastic savings currently available:  
 * Discounted rates – save up to £25 by registering early
 * Bursaries available to students and members in the early stages of their career 
 * Travel grants – act now and [find out how much you could save ](http://www.rsc.org/scienceandtechnology/funding/division-travel-grants/index.asp)
