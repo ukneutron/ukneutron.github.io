@@ -64,6 +64,8 @@ Registration is now open
 We hope to see you next April.
 
 **Anthony Meijer**
+
 Chair of the scientific committee
+
 University of Sheffield, United Kingdom 
 
