@@ -1,5 +1,7 @@
 ---
 title: Neutron Scattering Group
+feature_image: "/assets/isis.png"
+layout: page
 indexing: false
 sitemap: false
 ---
