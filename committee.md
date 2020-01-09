@@ -6,7 +6,7 @@ sitemap: false
 
 The NSG Committee consists of the following members:
 - Felix Fernandez-Alonso (**Chair**) - University College London & Materials Physics Center
-- Katharina Edkins (**Secretary**) - Queen's University Belfast
+- Katharina Edkins (**Secretary**) - University of Manchester
 - Elisabetta Canetta (**Treasurer**) - St Mary's University
 - Matthew Blakeley (**ILL Representative**) - Institut Laue-Langevin
 - Melissa Sharp (**ESS Representative**) - European Spallation Source
