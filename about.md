@@ -6,7 +6,8 @@ sitemap: false
 
 The group was formed in 1972 to provide a service to scientists interested in the use of neutron scattering.
 
-The use of neutron scattering as a means of studying the structure and dynamics of systems has grown continuously since neutrons became available in reasonable quantities from research reactors and accelerator-based sources Neutrons are now used for research in physics, chemistry, materials science, geology, archeology, catalysis, biology and engineering, both in the academic and industrial environments.
+The use of neutron scattering as a means of studying the structure and dynamics of systems has grown continuously since neutrons became available in reasonable quantities from research reactors and accelerator-based sources.
+Neutrons are now used for research in physics, chemistry, materials science, geology, archeology, catalysis, biology and engineering, both in the academic and industrial environments.
 
 In the UK the neutron scattering field has been extensively supported by provision of facilities at the [ISIS Neutron and Muon source](https://www.isis.stfc.ac.uk/Pages/home.aspx) at the Rutherford Appleton Laboratory in Oxfordshire, and the [Institut Laue-Langevin (ILL)](https://www.ill.eu/) in Grenoble, France. 
 These world-leading accelerator and reactor sources are both funded by the Science and Technology Facilities Council ([STFC](https://stfc.ukri.org/)). 
