@@ -1,5 +1,5 @@
 ---
-title: SXNS16
+title: International Conference on Surface X-ray and Neutron Scattering
 categories:
 - General
 excerpt: | 
@@ -7,6 +7,8 @@ excerpt: |
 feature_image: "/assets/isis.png"
 image: "/assets/Faraday2020.png" 
 ---
+
+[sxns16.org](https://www.sxns16.org)
 
 The 16th International Conference on Surface X-ray and Neutron Scattering (SXNS16) is being held in Lund Sweden in late June this year. 
 
@@ -33,3 +35,4 @@ Topics will include in-situ and in-operando surface studies, nanostructured surf
 - Elias Vlieg (Radboud University, The Netherlands)
 
 Registration and abstract submission are **now open**. 
+More information can be found at [sxns16.org](https://www.sxns16.org)
