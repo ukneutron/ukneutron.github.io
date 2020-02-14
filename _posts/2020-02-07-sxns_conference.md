@@ -5,7 +5,7 @@ categories:
 excerpt: | 
   Venue: Lund, Sweden, 23–26 June 2020. **Abstract submission is now open.**
 feature_image: "/assets/isis.png"
-image: "/assets/Faraday2020.png" 
+image: "/assets/isis.png" 
 ---
 
 [sxns16.org](https://www.sxns16.org)
@@ -35,4 +35,4 @@ Topics will include in-situ and in-operando surface studies, nanostructured surf
 - Elias Vlieg (Radboud University, The Netherlands)
 
 Registration and abstract submission are **now open**. 
-More information can be found at [sxns16.org](https://www.sxns16.org)
+More information can be found at [sxns16.org](https://www.sxns16.org).
