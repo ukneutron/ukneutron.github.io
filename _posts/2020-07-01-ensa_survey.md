@@ -1,9 +1,9 @@
 ---
-title: QENS/WINS 2020 
+title: ENSA Survey
 categories:
 - General
 excerpt: | 
-  Venue: San Sebastián, Spain, 8–12 June 2020. **Abstract deadline coming soon.**
+  We need your help!
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png" 
 ---
