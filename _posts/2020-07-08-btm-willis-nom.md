@@ -1,5 +1,5 @@
 ---
-title: BTM Willis Prize 202 – Call for Nominations
+title: BTM Willis Prize 2020 – Call for Nominations
 categories:
 - General
 excerpt: |
