@@ -25,30 +25,30 @@ Please indicate in the email if you would like to be considered for a contribute
 All times are British Summer Time.
 
 **Tuesday 25th August**
-13:30-13:40: Welcome remarks
-13:40-15:10: Parallel sessions
-- Soft condensed matter and biology
-- Magnetism and superconductivty
-- Chemistry, materials and engineering
-15:10-15:50: Breakout discussions
-- Applying for beamtime and facility studentships
-- Access to resources and reimbursements
-15:50-17:00 Parallel sessions
-- Instrumentation
-- Sample environment and data analysis
+- 13:30-13:40: Welcome remarks
+- 13:40-15:10: Parallel sessions
+  - Soft condensed matter and biology
+  - Magnetism and superconductivty
+  - Chemistry, materials and engineering
+- 15:10-15:50: Breakout discussions
+  - Applying for beamtime and facility studentships
+  - Access to resources and reimbursements
+- 15:50-17:00 Parallel sessions
+  - Instrumentation
+  - Sample environment and data analysis
 
 **Wednesday 26th August**
-9:00-10:30: Parallel sessions
-- Soft condensed matter and biology
-- Magnetism and superconductivty
-- Chemistry, materials and engineering
-10:30-11:10: Breakout discussions
-- Access to facilities in coming years
-- General discussion
-11:10-11:50: Poster session
-11:50-12:00: Prizes and summary
+- 9:00-10:30: Parallel sessions
+  - Soft condensed matter and biology
+  - Magnetism and superconductivty
+  - Chemistry, materials and engineering
+- 10:30-11:10: Breakout discussions
+  - Access to facilities in coming years
+  - General discussion
+- 11:10-11:50: Poster session
+- 11:50-12:00: Prizes and summary
 
-13:00-14:00: Neutron Scattering Group AGM
+- 13:00-14:00: Neutron Scattering Group AGM
 
 ## Invited speakers
 
