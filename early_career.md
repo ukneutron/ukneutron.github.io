@@ -4,4 +4,4 @@ indexing: false
 sitemap: false
 ---
 
-This is a placeholder page for now.
+Please register online: [https://forms.gle/X6cBqtCqj8vU2kuc8](https://forms.gle/X6cBqtCqj8vU2kuc8)
