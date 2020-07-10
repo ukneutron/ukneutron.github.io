@@ -16,7 +16,7 @@ An Early Career Researcher is anyone within 12 years of the awardance of their P
 
 ## Abstract submission
 
-Please submit contributed talk and poster abstracts to the Neutron Scattering Group committee email address: [mailto:committee@ukneutron.org](committee@ukneutron.org). 
+Please submit contributed talk and poster abstracts to the Neutron Scattering Group committee email address: [committee@ukneutron.org](mailto:committee@ukneutron.org). 
 Abstracts should be a maximum of 300 words long, and included in the email in plain text. 
 Please indicate in the email if you would like to be considered for a contributed talk or poster. 
 
