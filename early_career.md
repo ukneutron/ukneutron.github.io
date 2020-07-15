@@ -36,27 +36,30 @@ All times are British Summer Time.
 - 15:10-15:50: Breakout discussion
   - Applying for beamtime and facility studentships
   - Access to resources and reimbursements
-- 15:50-17:00 Parallel sessions
+  - Access to facilities in coming years
+- 15:50-17:00: Parallel sessions
   - Instrumentation
   - Sample environment and data analysis
+- 17:00-18:00: Poster sessions
 
 **Wednesday 26th August**
 - 9:00-10:30: Parallel sessions
   - Soft condensed matter and biology
   - Magnetism and superconductivty
   - Chemistry, materials and engineering
-- 10:30-11:10: Breakout discussion
-  - Access to facilities in coming years
-  - General discussion
-- 11:10-11:50: Poster session
-- 11:50-12:00: Prizes and summary
+- 10:30-11:30: Annual general meeting & breakout discussion
+- 11:30-12:20: Willis Prize Lecture
+- 12:20-12:30: Thomas-Penfold Prize & closing remarks
 
 ## Invited speakers
 
-- Pengfei Liu (QMUL)
-- Anna Slastanova (Bristol)
-- Roger Johnson (UCL)
-- Julia Payne (St Andrews)
+- Andrew Cairns (Imperial College London)
+- Roger Johnson (University College London)
+- Pengfei Liu (Queen Mary's University of London)
+- Sanghamitra Mukhopadhyay (ISIS)
+- Anna Slastanova (University of Bristol)
+- Julia Payne (University of St Andrews)
+- Rebecca Welbourn (ISIS)
 - Andrea Tummino (ILL)
 
 ## Organising Committee
