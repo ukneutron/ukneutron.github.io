@@ -59,7 +59,6 @@ All times are British Summer Time.
 - Sanghamitra Mukhopadhyay (ISIS)
 - Anna Slastanova (University of Bristol)
 - Julia Payne (University of St Andrews)
-- Rebecca Welbourn (ISIS)
 - Andrea Tummino (ILL)
 
 ## Organising Committee
