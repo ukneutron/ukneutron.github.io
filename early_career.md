@@ -60,6 +60,7 @@ All times are British Summer Time.
 - Anna Slastanova (University of Bristol)
 - Julia Payne (University of St Andrews)
 - Andrea Tummino (ILL)
+- Becky Welbourn (ISIS)
 
 ## Organising Committee
 
