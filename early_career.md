@@ -24,6 +24,8 @@ Contributied talks are 20 minutes, including questions.
 Abstracts should be a maximum of 300 words long, and included in the email in plain text. 
 Please indicate in the email if you would like to be considered for a contributed talk or poster. 
 
+**The deadline for abstract submission is the 7th August 2020*
+
 ## Schedule 
 
 All times are British Summer Time.
