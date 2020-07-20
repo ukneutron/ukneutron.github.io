@@ -14,7 +14,8 @@ More details of session chairs and invited speakers to follow.
 
 ## Do I count as Early Career?
 
-An Early Career Researcher is anyone within 12 years of the award of their PhD. 
+An Early Career Researcher is anyone within 12 years of the award of their final degree (PhD/Masters/BSc/etc.). 
+This includes current PhD students and those on alternative academic career paths (such as Research Software Engineers)
 
 ## Abstract submission
 
