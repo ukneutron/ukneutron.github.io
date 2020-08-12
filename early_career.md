@@ -19,12 +19,10 @@ This includes current PhD students and those on alternative academic career path
 
 ## Abstract submission
 
-Please submit contributed talk and poster abstracts to the Neutron Scattering Group committee email address: [committee@ukneutron.org](mailto:committee@ukneutron.org). 
-Contributied talks are 20 minutes, including questions.
+Please submit poster abstracts to the Neutron Scattering Group committee email address: [committee@ukneutron.org](mailto:committee@ukneutron.org). 
 Abstracts should be a maximum of 300 words long, and included in the email in plain text. 
-Please indicate in the email if you would like to be considered for a contributed talk or poster. 
 
-**The deadline for abstract submission is the 7th August 2020*
+**The deadline for contributed talk abstract submission has passed but we are still accepting poster abstracts**
 
 ## Schedule 
 
