@@ -41,7 +41,7 @@ All times are British Summer Time.
   - Access to resources and reimbursements
   - Access to facilities in coming years
 - 15:50-17:00: Parallel sessions
-  - Instrumentation
+  - Instrumentation/Peptides
   - Sample environment and data analysis
 - 17:00-18:00: Poster sessions
 
