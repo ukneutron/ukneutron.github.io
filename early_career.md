@@ -32,9 +32,16 @@ All times are British Summer Time.
 - 13:30-13:40: Welcome remarks
 - 13:40-15:10: Parallel sessions
   - Soft condensed matter and biology
+    - Chair: Richard Campbell (Manchester)
+    - Pengfei Liu (QMUL) **Invited Speaker**
   - Magnetism and superconductivty
+    - Chair: Alexandra Gibbs (ISIS/St Andrews)
+    - Sanghamitra Mukhopadhyay (ISIS) **Invited Speaker**
   - Chemistry, materials and engineering
+    - Chair: Iva Manasi (Bath)
+    - Andrew Cairns (Imperial) **Invited Speaker**
 - 15:10-15:50: Breakout discussion
+  - Chair: Emma McCabe (Kent)
   - Applying for beamtime and facility studentships
   - Access to resources and reimbursements
   - Access to facilities in coming years
