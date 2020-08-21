@@ -34,12 +34,21 @@ All times are British Summer Time.
   - Soft condensed matter and biology
     - Chair: Richard Campbell (Manchester)
     - Pengfei Liu (QMUL) **Invited Speaker**
+    - Valentina Spiteri (UCL)
+    - Xuzhi Hu (Manchester)
+    - Mona Sarter (ISIS)
   - Magnetism and superconductivty
     - Chair: Alexandra Gibbs (ISIS/St Andrews)
     - Sanghamitra Mukhopadhyay (ISIS) **Invited Speaker**
+    - Sungkyun Choi (Rutgers)
+    - David Boldrin (Glasgow)
+    - Guru Venkat (Sheffield)
   - Chemistry, materials and engineering
     - Chair: Iva Manasi (Bath)
     - Andrew Cairns (Imperial) **Invited Speaker**
+    - Benedetta Rosi (Perugia)
+    - Fin Allen (Cambridge)
+    - Nurunnisa Atceken (Edinburgh)
 - 15:10-15:50: Breakout discussion
   - Chair: Emma McCabe (Kent)
   - Applying for beamtime and facility studentships
@@ -47,28 +56,45 @@ All times are British Summer Time.
   - Access to facilities in coming years
 - 15:50-17:00: Parallel sessions
   - Instrumentation/Peptides
+    - Chair: Judith Houston (ESS)
+    - Rebecca Welbourn (ISIS) **Invited Speaker**
+    - Hao Qu (Momentive Quartz Technology)
+    - Haoning Gong (Manchester)
   - Sample environment and data analysis
+    - Chair: Andrew McCluskey (Diamond/Bath)
+    - Andrea Tummino (ILL) **Invited Speaker**
+    - Timothy Murdoch (Pennsylvania)
+    - Rebecca Fair (STFC SCD)
 - 17:00-18:00: Poster sessions
+  - Chair: Robert Thomas (Oxford)
 
 **Wednesday 26th August**
 - 9:00-10:30: Parallel sessions
   - Soft condensed matter and biology
+    - Chair: Valentina Spiteri (UCL)
+    - Anna Slastanova (Bristol) **Invited Speaker**
+    - Iva Manasi (Bath)
+    - Olga Matsarskaia (ILL)
+    - Shurui Miao (Syndey)
   - Magnetism and superconductivty
+    - Chair: Nicolo Paracini (Malmö)
+    - Roger Johnson (UCL) **Invited Speaker**
+    - Eamonn Connolly (Diamond)
+    - Jennifer Graham (Birmingham/ILL)
+    - Rasmus Tang (Copenhagen)
   - Chemistry, materials and engineering
+    - Chair: Andrew Seel (UCL/Oxford)
+    - Julia Payne (St Andrews) **Invited Speaker**
+    - Machteld Kamminga (Oxford)
+    - Josie Auckett (Durham)
+    - Anna Perió French (Kent)
 - 10:30-11:30: Annual general meeting & breakout discussion
-- 11:30-12:20: Willis Prize Lecture
-- 12:20-12:30: Thomas-Penfold Prize & closing remarks
-
-## Invited speakers
-
-- Andrew Cairns (Imperial College London)
-- Roger Johnson (University College London)
-- Pengfei Liu (Queen Mary's University of London)
-- Sanghamitra Mukhopadhyay (ISIS)
-- Anna Slastanova (University of Bristol)
-- Julia Payne (University of St Andrews)
-- Andrea Tummino (ILL)
-- Becky Welbourn (ISIS)
+  - Chair: Katharina Edkins (Manchester)
+- 11:30-12:00: Previous Willis Prize Winner Update
+  - Chair: Katharina Edkins (Manchester)
+  - Andrew Seel (UCL)
+- 12:00-12:10: Thomas-Penfold Prize & closing remarks
+  - Chairs: Andrew McCluskey (Diamond/Bath) and Richard Campbell (Manchester)
 
 ## Organising Committee
 
