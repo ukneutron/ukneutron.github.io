@@ -87,14 +87,14 @@ All times are British Summer Time.
     - Julia Payne (St Andrews) **Invited Speaker**
     - Machteld Kamminga (Oxford)
     - Josie Auckett (Durham)
-    - Anna Perió French (Kent)
+    - Anna Peiró Franch (Kent)
 - 10:30-11:30: Annual general meeting & breakout discussion
   - Chair: Katharina Edkins (Manchester)
 - 11:30-12:00: Previous Willis Prize Winner Update
   - Chair: Katharina Edkins (Manchester)
   - Andrew Seel (UCL)
 - 12:00-12:10: Thomas-Penfold Prize & closing remarks
-  - Chairs: Andrew McCluskey (Diamond/Bath) and Richard Campbell (Manchester)
+  - Chairs: Andrew McCluskey (Diamond/Bath) 
 
 ## Organising Committee
 
