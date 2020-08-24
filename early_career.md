@@ -61,7 +61,7 @@ All times are British Summer Time.
     - Hao Qu (Momentive Quartz Technology)
     - Haoning Gong (Manchester)
   - Sample environment and data analysis
-    - Chair: Andrew McCluskey (Diamond/Bath)
+    - Chair: Aleksandra Dabkowska (Astra Zeneca)
     - Andrea Tummino (ILL) **Invited Speaker**
     - Timothy Murdoch (Pennsylvania)
     - Rebecca Fair (STFC SCD)
