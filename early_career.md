@@ -10,6 +10,8 @@ Interested parties at any stage of their career are very welcome to attend, but 
 
 **The deadline for registration has closed.**
 
+Registrants will have received the schedule as a set of Zoom meeting links via email. The password for these meetings will be either "nsg2020" or "NSG2020". 
+
 ## Do I count as Early Career?
 
 An Early Career Researcher is anyone within 12 years of the award of their final degree (PhD/Masters/BSc/etc.). 
