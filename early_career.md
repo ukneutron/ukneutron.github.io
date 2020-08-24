@@ -8,9 +8,7 @@ The Neutron Scattering Group is hosting an Early Career Meeting on the 25th and 
 The meeting will take place online, with talks and posters from Early Career Researchers and discussion sessions focused on Early Career issues. 
 Interested parties at any stage of their career are very welcome to attend, but talks and posters will be exclusively presented by Early Career Researchers.
 
-Please register online: [https://forms.gle/X6cBqtCqj8vU2kuc8](https://forms.gle/X6cBqtCqj8vU2kuc8). 
-
-More details of session chairs and invited speakers to follow. 
+**The deadline for registration has closed.**
 
 ## Do I count as Early Career?
 
@@ -19,10 +17,7 @@ This includes current PhD students and those on alternative academic career path
 
 ## Abstract submission
 
-Please submit poster abstracts to the Neutron Scattering Group committee email address: [committee@ukneutron.org](mailto:committee@ukneutron.org). 
-Abstracts should be a maximum of 300 words long, and included in the email in plain text. 
-
-**The deadline for contributed talk abstract submission has passed but we are still accepting poster abstracts**
+**The deadline for abstract submission has passed**
 
 ## Schedule 
 
