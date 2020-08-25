@@ -10,7 +10,9 @@ Interested parties at any stage of their career are very welcome to attend, but 
 
 **The deadline for registration has closed.**
 
-Registrants will have received the schedule as a set of Zoom meeting links via email. The password for these meetings will be either "nsg2020" or "NSG2020". 
+Registrants will have received the schedule as a set of Zoom meeting links via email. The password for these meetings will be either "nsg2020" or "NSG2020".
+
+All times are given in UK Time (BST). Please adjust for this accordingly. Invited talks will be 30 minutes in length and contributed talks 20 minutes. The order of speakers is shown in the [Schedule](#Schedule) below. 
 
 ## Do I count as Early Career?
 
