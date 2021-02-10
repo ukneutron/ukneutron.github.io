@@ -8,6 +8,7 @@ image: "/assets/isis.png"
 ---
 The Neutron Scattering Group (NSG) is pleased to announce its new logo competition. This logo will represent the NSG in all official documents and communication tools.
 
+
 **Submission deadline: 31 October 2019**
 
 **Competition:**
