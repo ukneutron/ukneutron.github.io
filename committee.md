@@ -5,7 +5,7 @@ sitemap: false
 ---
 
 The NSG Committee consists of the following members:
-- Felix Fernandez-Alonso (**Chair**) - University College London & Materials Physics Center
+- Ross Stewart (**Chair**) - ISIS Neutron and Muon Source
 - Katharina Edkins (**Secretary**) - University of Manchester
 - Richard Campbell (**Treasurer**) - University of Manchester
 - Matthew Blakeley (**ILL Representative**) - Institut Laue-Langevin
