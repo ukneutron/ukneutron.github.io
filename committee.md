@@ -17,5 +17,7 @@ The NSG Committee consists of the following members:
 - Elisabetta Canetta - St Mary's University
 - Eddie Cussen - University of Sheffield
 - Emma McCabe - University of Kent
+- David Boldrin - University of Glasgow
+- Natasha Rhys - Kings College London
 
 You can get in touch with the committee using the following email address: [committee@ukneutron.org](mailto:committee@ukneutron.org)
