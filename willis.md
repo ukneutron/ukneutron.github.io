@@ -15,7 +15,7 @@ The prize is awarded to an individual in recognition of a single outstanding pie
 The recipient of the prize will normally be an early career scientist, i.e. in the first 12 years of a research career (allowing for career breaks) following the award of a first degree, who has made a substantial contribution to the development or reputation of physics / Chemistry / Biology in the UK or Ireland.
 
 ## Previous Winners
-- 2020: [Dr. Emma Draper](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2020---Dr-Emily-Draper.aspx), University of Glasgow
+- 2020: [Dr. Emily Draper](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2020---Dr-Emily-Draper.aspx), University of Glasgow
 - 2019: Dr. Lucy Clark, University of Liverpool
 - 2018: Dr. Roger H. Johnson, University of Oxford
 - 2017: Dr Andrew Seel - University College London
