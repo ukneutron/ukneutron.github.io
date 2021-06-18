@@ -20,5 +20,5 @@ For more information about the nomination and applications please contact the [N
 
 Deadline: 23:59 Friday 30 July 2021
 
-Please forward your nominations to NSG Secretary Dr Katharina Edkins (katharina.edkins@manchester.ac.uk).
+Please forward your nominations to NSG Secretary [Dr Katharina Edkins](katharina.edkins@manchester.ac.uk).
 
