@@ -1,5 +1,5 @@
 ---
-title: Important Links
+title: Useful Links
 indexing: false
 sitemap: false
 ---
