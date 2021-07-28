@@ -8,7 +8,7 @@ feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
  
 ---
-## Neutron Scattering Group Newsletter
+
 
 **Long shutdowns of neutron sources**\
 ISIS has just started a long shutdown period during which part of the LINAC will be replaced, as well as the TS1 target, reflector and moderator (TRAM) assembly. TS2 will return to operations on the 1st of March 2022, while TS1 will return for commissioning in the summer of 2022, with first user experiments in September 2022. The next ISIS proposal round in the autumn will be for TS2 instruments only.   To see news and progress on the ISIS long shutdown work, 
