@@ -3,7 +3,7 @@ title: NSG Newsletter - 2021
 categories:
 - General
 excerpt: |
-  Deadline  July 2021.
+  July 2021.
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
  
