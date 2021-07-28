@@ -2,10 +2,8 @@
 title: NSG Newsletter July, 2021
 categories:
 - General
-excerpt: 
-July, 2021
-  feature_image: 
-image: 
+
+  
 ---
 *****Neutron Scattering Group Newsletter*****
 
