@@ -2,8 +2,11 @@
 title: NSG Newsletter July, 2021
 categories:
 - General
-
-  
+excerpt: |
+  Deadline 31st July 2020.
+feature_image: "/assets/isis.png"
+image: "/assets/isis.png"
+ 
 ---
 *****Neutron Scattering Group Newsletter*****
 
