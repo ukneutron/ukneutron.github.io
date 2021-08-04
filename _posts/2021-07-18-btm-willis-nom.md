@@ -21,7 +21,7 @@ Nomination letter, applicants CV of no more than 3 A4 pages and two letters of s
 
 For more information about the nomination and applications please contact the [NSG Committee](committee@ukneutron.org).
 
-## Deadline: 23:59 Friday 30 July 2021
+## Deadline: 23:59 Friday 3 September 2021 (Extended)
 
 Please forward your nominations to NSG Secretary [Dr Katharina Edkins](katharina.edkins@manchester.ac.uk).
 
