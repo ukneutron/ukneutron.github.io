@@ -3,7 +3,7 @@ title: BTM Willis Prize 2021 – Call for Nominations
 categories:
 - General
 excerpt: |
-  Deadline 30th July 2021.
+  Deadline 3rd September 2021.
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
