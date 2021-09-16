@@ -4,7 +4,7 @@ indexing: false
 sitemap: false
 ---
 
-\\
+\
 
 #### ISIS Neutron and Muon Source
 ISIS is now accepting proposals for instruments on target station 2. Deadline is 17:00 (BST) October 20, 2021. More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).
