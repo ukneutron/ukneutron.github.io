@@ -6,7 +6,7 @@ sitemap: false
 
 {% include figure.html image="/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg" caption="Professor B.T.M. (Terry) Willis" width="200" %}
 
-[Nominations now open](https://ukneutron.org/general/2021/07/18/btm-willis-nom/)
+Nominations now closed
 
 In 2007, the IOP Neutron Scattering Group and the Faraday Division of the Royal Society of Chemistry established a prize for outstanding neutron scattering science in honour of the founding chairman of the Neutron Scattering Group, Professor B T M Willis.
 
