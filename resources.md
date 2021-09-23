@@ -35,6 +35,9 @@ sitemap: false
 #### Trainings
 ###### The Photon and Neutron Open Science Cloud [(PaNOSC)](https://www.panosc.eu/)
 
+###### [HERCULES School: Neutrons & Synchrotron Radiation for Science](https://hercules-school.eu/organisation-school)
+
+
 
 
 
