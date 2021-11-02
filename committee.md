@@ -19,5 +19,6 @@ The NSG Committee consists of the following members:
 - Eddie Cussen - University of Sheffield
 - David Boldrin - University of Glasgow
 - Natasha Rhys - Kings College London
+- Gregory Smith - ISIS Neutron and Muon Source
 
 You can get in touch with the committee using the following email address: [committee@ukneutron.org](mailto:committee@ukneutron.org)
