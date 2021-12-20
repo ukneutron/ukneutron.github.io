@@ -28,8 +28,6 @@ Since 2007, the prize has been awarded annually to an early career researcher in
 
 Dr Paddison will deliver his Willis Prize lecture at the joint Physical Crystallography Group (BCA) / Structural Condensed Matter Physics (IOP) meeting, which will be held on the 14th-15th February 2022 at Milton Hill House near the Rutherford Appleton Laboratory, Harwell.
 
-Prize details and previous recipients: https://ukneutron.org/willis/ 
-
 Joe Paddison Homepage: https://joepaddison.com/ 
 
 <!-- Nominations now closed
