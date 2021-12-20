@@ -6,6 +6,8 @@ indexing: false
 sitemap: false
 ---
 
+[**Joe Paddison wins BTM Willis Prize for 2021**](https://ukneutron.org/general/2021/12/20/BTM2021/)
+
 The Neutron Scattering Group is a group jointly hosted by Institute of Physics ([IOP](https://www.iop.org/physics-community/special-interest-groups/neutron-scattering-group)) and the Royal Society of Chemistry ([RSC](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/neutron-scattering/)) to promote neutron science actively with its UK user community.
 Our aims are to:
  
