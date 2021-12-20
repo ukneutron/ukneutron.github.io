@@ -28,7 +28,7 @@ Since 2007, the prize has been awarded annually to an early career researcher in
 
 Dr Paddison will deliver his Willis Prize lecture at the joint Physical Crystallography Group (BCA) / Structural Condensed Matter Physics (IOP) meeting, which will be held on the 14th-15th February 2022 at Milton Hill House near the Rutherford Appleton Laboratory, Harwell.
 
-Joe Paddison Homepage: https://joepaddison.com/ 
+Joe Paddison Homepage: [joepaddison.com](https://joepaddison.com/)
 
 <!-- Nominations now closed
 
@@ -41,7 +41,7 @@ The prize is awarded to an individual in recognition of a single outstanding pie
 The recipient of the prize will normally be an early career scientist, i.e. in the first 12 years of a research career (allowing for career breaks) following the award of a first degree, who has made a substantial contribution to the development or reputation of physics / Chemistry / Biology in the UK or Ireland. -->
 
 ## Previous Winners
-- 2021: [Dr. Joe Paddison](https://joepaddison.com/ ), Oak Ridge National Laboratory
+- 2021: [Dr. Joe Paddison](https://joepaddison.com/), Oak Ridge National Laboratory
 - 2020: [Dr. Emily Draper](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2020---Dr-Emily-Draper.aspx), University of Glasgow
 - 2019: Dr. Lucy Clark, University of Liverpool
 - 2018: Dr. Roger H. Johnson, University of Oxford
