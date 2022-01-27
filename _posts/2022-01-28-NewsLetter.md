@@ -25,7 +25,7 @@ The 2022 BTM Willis Prize, awarded by the Neutron Scattering Group of the IoP an
 
 [See here](https://www.isis.stfc.ac.uk/Pages/NMSUM2022.aspx) for more information:
 
-Contributed Presentations for NMSUM 2022
+*Contributed Presentations for NMSUM 2022*\
 Contributions for oral and poster presentations for NMSUM 2022 will be opened very shortly. 
 Please keep an eye on the following link for further details in due course:
 
