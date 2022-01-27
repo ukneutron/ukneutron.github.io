@@ -18,7 +18,3 @@ Indeed the NSG has representative members from all three facilities and also fro
 Another principal function of the NSG is to communicate information about the neutron facilities available to as wide an audience as possible, particularly to newer entrants to the field and to those who work in related subjects but who may wish to make use of neutron scattering techniques from time to time. 
 These steps are designed to ensure that the UK neutron user community of the future goes from strength to strength.
 
-**Newsletters**\
-[2022](/_posts/2022-01-28-NewsLetter) \
-[2021](/_posts/2021-07-28-NewsLetter) \
-[2020](/_posts/2020-08-03-NSG_Newsletter)
