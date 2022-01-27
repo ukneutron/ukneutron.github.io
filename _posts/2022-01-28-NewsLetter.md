@@ -102,7 +102,7 @@ Have you just defended your PhD and want the community to know about this? Have 
 conference or published/read a book or chapter or paper that is of interest to the neutron scattering community? 
 Then get in touch with a short description of the item at committee@ukneutron.org 
 and we will include the item in the 
-newsletter for the following month as well as publicize on [our webpage](http://ukneutron.org) and through our T
-witter account @ukneutron. 
+newsletter for the following month as well as publicize on [our webpage](http://ukneutron.org) and through our 
+Twitter account @ukneutron. 
 
 
