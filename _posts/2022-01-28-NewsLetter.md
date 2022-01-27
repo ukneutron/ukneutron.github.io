@@ -15,10 +15,11 @@ The UK Neutron & Muon Science and User Meeting will take place at Warwick Univer
 This meeting, jointly organised by the NSG, ISIS and ILL, will be a chance for UK users of neutron and muon beams to 
 hear about latest science using these techniques, together with facility updates and other news of interest to the community.
 
-The structure of the meeting will be:
-Monday 25 April (11.00am onwards): Student day.  
-Tuesday 26 April (09.00 onwards): Science day. 
-Wednesday 27 April (09.00 – 13.00): User day. Facility updates and other news of interest to ISIS and ILL users.
+The structure of the meeting will be:\
+Monday 25 April (11.00am onwards): Student day.\  
+Tuesday 26 April (09.00 onwards): Science day.\ 
+Wednesday 27 April (09.00 – 13.00): User day.\ 
+Facility updates and other news of interest to ISIS and ILL users.
 
 The 2022 BTM Willis Prize, awarded by the Neutron Scattering Group of the IoP and RSC, will be presented at the meeting. 
 
