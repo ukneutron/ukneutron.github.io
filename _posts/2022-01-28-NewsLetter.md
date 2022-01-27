@@ -9,8 +9,7 @@ image: "/assets/isis.png"
  
 ---
 
-**UK Neutron & Muon Science and User Meeting (NMSUM) 2022 **\
-
+**UK Neutron & Muon Science and User Meeting (NMSUM) 2022**\
 The UK Neutron & Muon Science and User Meeting will take place at Warwick University from 25-27 April 2022.
 
 This meeting, jointly organised by the NSG, ISIS and ILL, will be a chance for UK users of neutron and muon beams to 
@@ -32,7 +31,6 @@ Please keep an eye on the following link for further details in due course:
 [https://www.isis.stfc.ac.uk/Pages/NMSUM2022.aspx](https://www.isis.stfc.ac.uk/Pages/NMSUM2022.aspx)
 
 **Symposium Celebrating International Women's Day at ISIS (8-9 March)**\
-
 This event will be a celebration of International Women’s Day and the role of ISIS in sustainability-focused research. 
 We invite members of our user community to contribute talks about work within the broad theme of sustainability, 
 including research that is carried out by, led by and/or inspired by women. We aim to put together a diverse program of 
@@ -44,25 +42,21 @@ More information at the [this link](https://www.isis.stfc.ac.uk/Pages/Internatio
 Please contact Helen Playford (helen.playford@stfc.ac.uk) with any questions or comments.
 
 **Rapid and Xpress access routes at ISIS**\
-
 ISIS has just reopened Rapid and Xpress access routes for TS2 instruments (not TS1).
 
 **The Tenth Erwin Felix Lewy Bertaut Prizes**\
-
 The European Neutron Scattering Association (ENSA) and the European Crystallographic Association (ECA) 
 will be awarding two Bertaut prizes to young scientists (<8 years post-PhD) in recognition of notable experimental, 
 methodological or theoretical contributions to the investigation of matter using crystallographic or neutron scattering methods. 
 Nomination deadline is 31 March 2022. [See here](https://ecanews.org/erwin-felix-lewy-bertaut-prize/) for more information. 
 
-**7th European Crystallographic School **\
-
+**7th European Crystallographic School**\
 Registration is now open for the 7th European Crystallographic School, which takes place in Lisbon between the 10-15 July 2022.
 
 The school will focus on a wide range of topics and will be of benefit to young scientists. Please share this with your networks 
 to increase awareness of the school. [Register here](https://ecs7.events.chemistry.pt/).
 
 **New canSAS working group: SESANS Reproducibility**\
-
 Spin-echo small-angle neutron scattering (or SESANS) is a variant of SANS that uses the Larmor precession of polarised 
 neutrons to study the structure of materials over length scales larger than those accessible by conventional 
 SANS (comparable to USANS), and in real space. We have formed a new subgroup of the canSAS Reproducibility 
@@ -73,8 +67,7 @@ More information about the group can be found on the
 [canSAS wiki](https://cansas.org/wgwiki/index.php/SESANS_Reproducibility_Working_Group).
 
 
-**Lipid Bilayers at ESS - "BESS 2022" meeting in Lund 13-15 June 2022 **\
-
+**Lipid Bilayers at ESS - "BESS 2022" meeting in Lund 13-15 June 2022**\
 Save the date for the “Bilayers at ESS – BESS” workshop (13-15 June 2022). 
 The aim of the workshop is to bring together researchers working on the physico-chemical 
 characterisation (including structure and dynamics) of lipid bilayers by both experimental and theoretical approaches.
@@ -83,7 +76,6 @@ The meeting, provisionally in hybrid format, is now open for registration and ab
 [Register here](https://lnkd.in/eWBGtQcm)
 
 **ISIS Shutdown Updates**\
-
 During the long shutdown, the ISIS synchrotron RF section have replaced all six of the fundamental RF systems that 
 drive the synchrotron acceleration. This will not only make them more reliable and easier to maintain, but will lead to a huge 
 reduction in ISIS' electricity demand.  Cool pictures and more information on shutdown 
@@ -91,7 +83,6 @@ updates can be found [here](https://www.isis.stfc.ac.uk/Pages/ShutdownUpdate.asp
 
 
 **Update on the ILL20-23 Programme and the 2021-2022 long shutdown work**\
-
 The ILL20-23 programme is the ILL’s most important maintenance and upgrade programme, 
 involving several long shutdowns. The objectives for the current and longest shutdown, spanning most of 2022, 
 include the renewal of the H1-H2 beam tube, the delivery of a number of major Endurance guide and instrument projects, 
@@ -103,7 +94,7 @@ A huge amount of work has been done in the guide halls, and the carter pink hous
 dismounted to make way for the new H1-H2 beamtube. The leaktightness of the reactor containment has also recently been 
 successfully tested. More information [here](https://www.ill.eu/users/instruments/modernisation-programmes/ill2023).
 
-Get in touch
+**Get in touch**\
 Do you have a news item that you would like to see included in this newsletter? 
 Are you advertising for PhD or PDRA position in the field of neutron scattering? 
 Have you just defended your PhD and want the community to know about this? Have you been to a 
