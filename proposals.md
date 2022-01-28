@@ -27,7 +27,7 @@ J-PARC is accepting any beam time proposal now. You can use urgent access mechan
 MLZ is not accepting any beam time proposal now. More information will be found [here](https://mlz-garching.de/user-office)
 
 #### The Swiss Spallation Neutron Source (SINQ)
-The next proposal deadline is 22nd November 2021. More information will be found [here](https://www.psi.ch/en/sinq)
+The next proposal deadline is 15th May, 2022. More information will be found [here](https://www.psi.ch/en/sinq)
 
 
 
