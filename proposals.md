@@ -7,11 +7,8 @@ sitemap: false
 .
 
 #### ISIS Neutron and Muon Source
-ISIS is not accepting any proposal now. Deadline for instruments on target station 2 is now passed. More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
+ISIS is now accepting Xpress proposal now.  More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
 ISIS is in a long shutdown to enable refurbishment of the [first target station](https://www.isis.stfc.ac.uk/Pages/Target-Station-1.aspx) and [replacement of a tank in the linear accelerator](https://www.isis.stfc.ac.uk/Pages/TH_LinacTank4_beadpull.aspx). More information about ISIS long shutdown will be found [here](https://www.isis.stfc.ac.uk/Pages/For-Users.aspx).
-
-#### The Swiss Spallation Neutron Source (SINQ)
-The next proposal deadline is 22nd November 2021. More information will be found [here](https://www.psi.ch/en/sinq)
 
 #### Australian Centre for Neutron Scattering (ANSTO)
 The next proposal deadline for ANSTO is 15th February, 2022. More information will be found [here](https://www.ansto.gov.au/our-facilities/australian-centre-for-neutron-scattering/call-for-proposals).
@@ -27,6 +24,10 @@ J-PARC is accepting any beam time proposal now. You can use urgent access mechan
 
 #### Heinz Maier-Leibnitz Zentrum (MLZ)
 MLZ is not accepting any beam time proposal now. More information will be found [here](https://mlz-garching.de/user-office)
+
+#### The Swiss Spallation Neutron Source (SINQ)
+The next proposal deadline is 22nd November 2021. More information will be found [here](https://www.psi.ch/en/sinq)
+
 
 
 
