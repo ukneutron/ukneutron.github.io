@@ -7,7 +7,7 @@ sitemap: false
 .
 
 #### ISIS Neutron and Muon Source
-ISIS is now accepting Xpress proposal now.  More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
+ISIS is now accepting Xpress proposals.  More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
 ISIS is in a long shutdown to enable refurbishment of the [first target station](https://www.isis.stfc.ac.uk/Pages/Target-Station-1.aspx) and [replacement of a tank in the linear accelerator](https://www.isis.stfc.ac.uk/Pages/TH_LinacTank4_beadpull.aspx). More information about ISIS long shutdown will be found [here](https://www.isis.stfc.ac.uk/Pages/For-Users.aspx).
 
 #### Australian Centre for Neutron Scattering (ANSTO)
