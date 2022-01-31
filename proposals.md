@@ -14,7 +14,7 @@ ISIS is in a long shutdown to enable refurbishment of the [first target station]
 The next proposal deadline for ANSTO is 15th February, 2022. More information will be found [here](https://www.ansto.gov.au/our-facilities/australian-centre-for-neutron-scattering/call-for-proposals).
 
 #### Spallation Neutron Source (SNS) and High Flux Isotope Reactor (HFIR)
-HFIR and SNS is not accepting general use proposals. Deadline for submission of proposals is on 23rd March, 2022. More information will be found [here](https://neutrons.ornl.gov/users/proposal-calls).
+HFIR and SNS is now accepting general use proposals. Deadline for submission of proposals is on 23rd March, 2022. More information will be found [here](https://neutrons.ornl.gov/users/proposal-calls).
 
 #### The Swiss Spallation Neutron Source (SINQ)
 The next proposal deadline is 15th May, 2022. More information will be found [here](https://www.psi.ch/en/sinq)
