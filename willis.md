@@ -6,6 +6,8 @@ sitemap: false
 
 {% include figure.html image="/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg" caption="Professor B.T.M. (Terry) Willis" width="200" %}
 
+Nomination for BTM Willis Prize 2022 is now open. For more information see [here](https://ukneutron.org/general/2022/02/15/btm-willis-nom/)
+
 ### BTM Willis Prize 2021
 
 We are pleased to announce that the winner of the 2021 BTM Willis prize is Dr Joe Paddison. 
