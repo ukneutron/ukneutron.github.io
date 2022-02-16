@@ -33,4 +33,5 @@ We are pleased to announce that the winner of the 2021 BTM Willis prize is Dr Jo
 - 2010:
 - 2009:
 - 2008: Dr Radu Coldea, University of Bristol
-- 2007: Dr Giovanna Fragneto, Institut Laue-Langevin
+
+<-- - 2007: Dr Giovanna Fragneto, Institut Laue-Langevin -->
