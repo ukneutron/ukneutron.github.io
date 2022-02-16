@@ -35,14 +35,9 @@ The panel will assess the impact of each candidate’s work in terms of its qual
 - 2013: [Dr Sihai Yang](https://www.isis.stfc.ac.uk/Pages/Dr-Sihai-Yang-wins-BTM-Willis-Prize-2013.aspx), University of Nottingham
 - 2012: [Dr Sylvia Ellen McLain](https://www.isis.stfc.ac.uk/Pages/Oxford-researcher-scoops-top-neutron-prize-for-ISIS-research.aspx), University of Oxford
 - 2011: [Dr Robert Dalgliesh](https://www.isis.stfc.ac.uk/Pages/ISIS-scientist-wins-neutron-prize-for-novel-nanoscience-technique.aspx), ISIS Neutron and Muon Source
-- 2010:
-- 2009:
 - 2008: [Dr Radu Coldea](http://www.bris.ac.uk/news/2008/212017945284.html), University of Bristol
-- 2007: 
 - 2006: [Dr Giovanna Fragneto](https://www.ill.eu/fileadmin/user_upload/ILL/3_Users/Scientific_groups/Large_Scale_Structures/People/Giovanna_FRAGNETO/Newsletter_UKNS_2006.pdf), Institut Laue-Langevin
-- 2005:
 - 2004:	Dr. Andrew Wills, University College London
 - 2003:	Dr. Toby Perring, ISIS Neutron and Muon Source
-- 2002:
 - 2001:	[Dr. Chick Wilson](https://crystallography.org.uk/old-bca-website/cnews/2002/p80.htm#will), ISIS Neutron and Muon Source
 
