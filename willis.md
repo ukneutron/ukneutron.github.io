@@ -21,17 +21,17 @@ We are pleased to announce that the winner of the 2021 BTM Willis prize is Dr Jo
 ## Previous Winners
 - 2021: [Dr. Joe Paddison](https://joepaddison.com/), Oak Ridge National Laboratory
 - 2020: [Dr. Emily Draper](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2020---Dr-Emily-Draper.aspx), University of Glasgow
-- 2019: Dr. Lucy Clark, University of Liverpool
-- 2018: Dr. Roger H. Johnson, University of Oxford
-- 2017: Dr Andrew Seel, University College London
-- 2016: Dr Katharina Edkins, Durham University
-- 2015: Dr Aleksandra Dabkowska, King's College London
-- 2014: Dr Anita Zeidler, University of Bath
-- 2013: Dr Sihai Yang, University of Nottingham
-- 2012: Dr Sylvia Ellen McLain, University of Oxford
-- 2011: Dr Robert Dalgliesh, ISIS Neutron and Muon Source
+- 2019: [Dr. Lucy Clark](https://www.liverpool.ac.uk/physics/news/stories/title,1142243,en.html), University of Liverpool
+- 2018: [Dr. Roger H. Johnson](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2018---Dr-Roger-Johnson.aspx), University of Oxford
+- 2017: [Dr Andrew Seel](https://www.isis.stfc.ac.uk/Pages/Prestigious-neutron-prize-awarded-to-Dr-Andrew-Seel.aspx), University College London
+- 2016: [Dr Katharina Edkins](https://www.isis.stfc.ac.uk/Pages/Exploration-into-water-and-drugs-scoops-prestigious-neutron-scattering-prize.aspx), Durham University
+- 2015: [Dr Aleksandra Dabkowska](https://www.fkem1.lu.se/show-news/article/dr-aleksandra-dabkowska-gets-a-prestigious-prize/), King's College London
+- 2014: [Dr Anita Zeidler](https://www.bath.ac.uk/announcements/researcher-wins-top-neutron-scattering-prize/), University of Bath
+- 2013: [Dr Sihai Yang](https://www.isis.stfc.ac.uk/Pages/Dr-Sihai-Yang-wins-BTM-Willis-Prize-2013.aspx), University of Nottingham
+- 2012: [Dr Sylvia Ellen McLain](https://www.isis.stfc.ac.uk/Pages/Oxford-researcher-scoops-top-neutron-prize-for-ISIS-research.aspx), University of Oxford
+- 2011: [Dr Robert Dalgliesh](https://www.isis.stfc.ac.uk/Pages/ISIS-scientist-wins-neutron-prize-for-novel-nanoscience-technique.aspx), ISIS Neutron and Muon Source
 - 2010:
 - 2009:
-- 2008: Dr Radu Coldea, University of Bristol
+- 2008: [Dr Radu Coldea](http://www.bris.ac.uk/news/2008/212017945284.html), University of Bristol
 
 <!--- - 2007: Dr Giovanna Fragneto, Institut Laue-Langevin --->
