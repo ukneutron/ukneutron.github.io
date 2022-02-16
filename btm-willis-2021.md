@@ -1,7 +1,7 @@
 ---
 title: BTM Willis Prize 2021
-excerpt: |
-  Dr. Joe Paddison wins BTM Wills 2021 Prize
+indexing: false
+sitemap: false
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
