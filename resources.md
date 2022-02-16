@@ -9,8 +9,7 @@ sitemap: false
 .
 
 #### Associations
-**The European Neutron Scattering Association** [**(ENSA)**](http://www.neutrons-ensa.eu/)
-
+**The European Neutron Scattering Association** [**(ENSA)**](http://www.neutrons-ensa.eu/)\
 **The League of advanced European Neutron Sources** [**(LENS)**](https://www.lens-initiative.org/)
 
 **The Neutron Scattering Society of America** [**(NSSA)**](https://neutronscattering.org/)
