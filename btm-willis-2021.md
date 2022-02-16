@@ -6,7 +6,7 @@ feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
 
-## BTM Willis Prize 2021
+
 
 We are pleased to announce that the winner of the 2021 BTM Willis prize is Dr Joe Paddison. 
 The prize was awarded in recognition of Dr Paddison’s contributions to the study of frustrated (disordered) magnetic materials using diffuse neutron scattering. 
