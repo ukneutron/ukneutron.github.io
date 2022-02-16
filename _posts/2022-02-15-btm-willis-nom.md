@@ -21,5 +21,11 @@ The recipient of the prize will be a scientist, in the first 12 years of a resea
 ## Prize nomination:
 Self-nominations are accepted.   Nominators will be asked to upload a statement of support, the candidate’s CV and the names of two supporters who will also be contacted for letters of support. Submit nomination [here](https://www.smartsurvey.co.uk/s/NSG-BTM-Willis-Prize/). 
 
+## Judging:
+The panel to judge the prize will be composed of the Neutron Scattering Group committee, with external experts asked to join the panel to contribute expertise not covered by the committee. Committee members with a potential conflict of interest (e.g. supervisor/former supervisor of the candidate, or from the same department as the candidate) will not be involved in assessing that candidate’s nomination.
+
+The panel will assess the impact of each candidate’s work in terms of its quality, originality, rigour and significance, based on the evidence put forward by the candidate and their referees.  Metrics (journal impact factor and citations) will be of minor importance given the cross-disciplinary nature of the field of neutron work.
+
+
 
 For more information about the nomination and applications please see the Neutron Scattering Group webpage at [ukneutron.org](https:/ukneutron.org).
