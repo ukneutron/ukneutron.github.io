@@ -8,7 +8,7 @@ sitemap: false
 
 [Nomination for BTM Willis Prize 2022 is now open](https://ukneutron.org/general/2022/02/15/btm-willis-nom/).
 
-The BTM Willis prize is named in honour of Prof. Terry Willis – founder of the UK Neutron Scattering Group, and the well-known Harwell (later Oxford) School of Neutron Scattering. Since 2007, the IOP Neutron Scattering Group and the Faraday Division of the Royal Society of Chemistry award the prize annually to an early career researcher in recognition of a single outstanding piece of work, or a longer-term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
+The BTM Willis prize is named in honour of Prof. Terry Willis – founder of the UK Neutron Scattering Group, and the well-known for Harwell (later Oxford) School of Neutron Scattering. Since 2001, the IOP Neutron Scattering Group and the Faraday Division of the Royal Society of Chemistry award the prize annually to an early career researcher in recognition of a single outstanding piece of work, or a longer-term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
 
 The prize is awarded to an individual in recognition of a single outstanding piece of work, or a longer term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
 
@@ -38,5 +38,11 @@ The panel will assess the impact of each candidate’s work in terms of its qual
 - 2010:
 - 2009:
 - 2008: [Dr Radu Coldea](http://www.bris.ac.uk/news/2008/212017945284.html), University of Bristol
+- 2007: 
+- 2006: [Dr Giovanna Fragneto](https://www.ill.eu/fileadmin/user_upload/ILL/3_Users/Scientific_groups/Large_Scale_Structures/People/Giovanna_FRAGNETO/Newsletter_UKNS_2006.pdf), Institut Laue-Langevin
+- 2005:
+- 2004:	Dr. Andrew Wills, University College London
+- 2003:	Dr. Toby Perring, ISIS Neutron and Muon Source
+- 2002:
+- 2001:	[Dr. Chick Wilson](https://crystallography.org.uk/old-bca-website/cnews/2002/p80.htm#will), ISIS Neutron and Muon Source
 
-<!--- - 2007: Dr Giovanna Fragneto, Institut Laue-Langevin --->
