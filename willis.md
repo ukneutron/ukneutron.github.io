@@ -19,7 +19,7 @@ The recipient of the prize will normally be an early career scientist, i.e. in t
 We are pleased to announce that the winner of the 2021 BTM Willis prize is Dr Joe Paddison. See more information [here](https://ukneutron.org/btm-willis-2021/)
 
 ## Previous Winners
-- 2021: [Dr. Joe Paddison](https://joepaddison.com/), Oak Ridge National Laboratory
+- 2021: [Dr. Joe Paddison](https://ukneutron.org/btm-willis-2021/), Oak Ridge National Laboratory
 - 2020: [Dr. Emily Draper](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2020---Dr-Emily-Draper.aspx), University of Glasgow
 - 2019: [Dr. Lucy Clark](https://www.liverpool.ac.uk/physics/news/stories/title,1142243,en.html), University of Liverpool
 - 2018: [Dr. Roger H. Johnson](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2018---Dr-Roger-Johnson.aspx), University of Oxford
