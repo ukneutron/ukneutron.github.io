@@ -16,7 +16,12 @@ The prize is awarded to an individual in recognition of a single outstanding pie
 
 The recipient of the prize will normally be an early career scientist, i.e. in the first 12 years of a research career (allowing for career breaks) following the award of a first degree, who has made a substantial contribution to the development or reputation of physics / Chemistry / Biology in the UK or Ireland.
 
-We are pleased to announce that the winner of the 2021 BTM Willis prize is Dr Joe Paddison. See more information [here](https://ukneutron.org/btm-willis-2021/)
+## Judging:
+
+The panel to judge the prize will be composed of the Neutron Scattering Group committee, with external experts asked to join the panel to contribute expertise not covered by the committee. Committee members with a potential conflict of interest (e.g. supervisor/former supervisor of the candidate, or from the same department as the candidate) will not be involved in assessing that candidate’s nomination.
+
+The panel will assess the impact of each candidate’s work in terms of its quality, originality, rigour and significance, based on the evidence put forward by the candidate and their referees.  Metrics (journal impact factor and citations) will be of minor importance given the cross-disciplinary nature of the field of neutron work.
+
 
 ## Previous Winners
 - 2021: [Dr. Joe Paddison](https://ukneutron.org/btm-willis-2021/), Oak Ridge National Laboratory
