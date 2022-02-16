@@ -19,7 +19,7 @@ The prize is awarded to an individual in recognition of a single outstanding pie
 The recipient of the prize will be a scientist, in the first 12 years of a research career following the award of a first degree (allowing for career breaks), who has made a substantial contribution to the development or reputation of neutron science in the UK or Ireland.
  
 ## Prize nomination:
-Self-nominations are accepted.   Nominators will be asked to upload a statement of support, the candidate’s CV and the names of two supporters who will also be contacted for letters of support. Submit nomination [here](https://www.smartsurvey.co.uk/s/NSG-BTM-Willis-Prize/). 
+Self-nominations are accepted.   Nominators will be asked to upload a statement of support (max 500 words), the candidate’s CV (2 pages), a list of publications and the names of two supporters who will also be contacted for letters of support. Submit nomination [here](https://www.smartsurvey.co.uk/s/NSG-BTM-Willis-Prize/). 
 
 ## Judging:
 The panel to judge the prize will be composed of the Neutron Scattering Group committee, with external experts asked to join the panel to contribute expertise not covered by the committee. Committee members with a potential conflict of interest (e.g. supervisor/former supervisor of the candidate, or from the same department as the candidate) will not be involved in assessing that candidate’s nomination.
