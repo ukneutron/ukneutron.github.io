@@ -13,7 +13,7 @@ sitemap: false
 **The League of advanced European Neutron Sources** [**(LENS)**](https://www.lens-initiative.org/)\
 **The Neutron Scattering Society of America** [**(NSSA)**](https://neutronscattering.org/)\
 **Asia-Oceania Neutron Scattering Association** [**(AONSA)**](http://aonsa.org/)\
-**Open Reflectometry Standards Organisation** [**(ORSO)**](https://www.reflectometry.org)\
+**Open Reflectometry Standards Organisation** [**(ORSO)**](https://www.reflectometry.org)
 
 .
 
