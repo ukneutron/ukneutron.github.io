@@ -23,14 +23,14 @@ We are pleased to announce that the winner of the 2021 BTM Willis prize is Dr Jo
 - 2020: [Dr. Emily Draper](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2020---Dr-Emily-Draper.aspx), University of Glasgow
 - 2019: Dr. Lucy Clark, University of Liverpool
 - 2018: Dr. Roger H. Johnson, University of Oxford
-- 2017: Dr Andrew Seel - University College London
-- 2016: Dr Katharina Edkins - Durham University
+- 2017: Dr Andrew Seel, University College London
+- 2016: Dr Katharina Edkins, Durham University
 - 2015: Dr Aleksandra Dabkowska, King's College London
-- 2014: Dr Anita Zeidler - University of Bath
-- 2013: Dr Sihai Yang - University of Nottingham
-- 2012: Dr Sylvia Ellen McLain - University of Oxford
-- 2011: Dr Robert Dalgliesh - ISIS Neutron and Muon Source
+- 2014: Dr Anita Zeidler, University of Bath
+- 2013: Dr Sihai Yang, University of Nottingham
+- 2012: Dr Sylvia Ellen McLain, University of Oxford
+- 2011: Dr Robert Dalgliesh, ISIS Neutron and Muon Source
 - 2010:
 - 2009:
-- 2008: Dr Radu Coldea - University of Bristol
-- 2007: Dr Giovanna Fragneto - Institut Laue-Langevin
+- 2008: Dr Radu Coldea, University of Bristol
+- 2007: Dr Giovanna Fragneto, Institut Laue-Langevin
