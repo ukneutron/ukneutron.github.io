@@ -3,7 +3,7 @@ title: NSG Newsletter - 2022
 categories:
 - General
 excerpt: |
-  January 2022.
+  March 2022.
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
  
