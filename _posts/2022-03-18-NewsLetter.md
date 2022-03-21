@@ -47,7 +47,7 @@ The European Neutron Scattering Association (ENSA) and the European Crystallogra
 
 For more information contact mona.sartar@stfc.ac.uk
 
-### MDANSE School 2022 (Molecular and Lattice Dynamics for Analysis of Neutron Spectroscopy), Coseners House, Abingdon, 29th June -1st July,
+### MDANSE School 2022 (Molecular and Lattice Dynamics for Analysis of Neutron Spectroscopy), Coseners House, Abingdon, 28th June -1st July,
 
 For more information contact sanghamitra.mukhopadhyay@stfc.ac.uk
 
