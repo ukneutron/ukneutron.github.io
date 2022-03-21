@@ -43,11 +43,11 @@ The school will focus on a wide range of topics and will be of benefit to young 
 
 The European Neutron Scattering Association (ENSA) and the European Crystallographic Association (ECA) will be awarding two Bertaut prizes to young scientists (<8 years post-PhD) in recognition of notable experimental, methodological or theoretical contributions to the investigation of matter using crystallographic or neutron scattering methods. Nomination deadline is 31 March 2022. See [here](https://ecanews.org/erwin-felix-lewy-bertaut-prize/) for more information: 
 
-#### Molecular Spectroscopy Users Group Meeting (ISIS), Coseners House, Abingdon, 26-27th June.
+#### Molecular Spectroscopy Users Group Meeting (ISIS), Coseners House, Abingdon, 27-28th June.
 
 For more information contact mona.sartar@stfc.ac.uk
 
-### MDANSE School 2022 (Molecular and Lattice Dynamics for Analysis of Neutron Spectroscopy), Coseners House, Abingdon, 28th June -1st July,
+### MDANSE School 2022 (Molecular and Lattice Dynamics for Analysis of Neutron Spectroscopy), Coseners House, Abingdon, 29th June -1st July,
 
 For more information contact sanghamitra.mukhopadhyay@stfc.ac.uk
 
