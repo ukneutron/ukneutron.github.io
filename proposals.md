@@ -7,17 +7,17 @@ sitemap: false
 .
 
 #### ISIS Neutron and Muon Source
-ISIS is now accepting Xpress proposals.  More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
+ISIS is now accepting full proposals.  Deadline for submission is 20th April, 2022. More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
 ISIS is in a long shutdown to enable refurbishment of the [first target station](https://www.isis.stfc.ac.uk/Pages/Target-Station-1.aspx) and [replacement of a tank in the linear accelerator](https://www.isis.stfc.ac.uk/Pages/TH_LinacTank4_beadpull.aspx). More information about ISIS long shutdown will be found [here](https://www.isis.stfc.ac.uk/Pages/For-Users.aspx).
-
-#### Australian Centre for Neutron Scattering (ANSTO)
-The next proposal deadline for ANSTO is 15th February, 2022. More information will be found [here](https://www.ansto.gov.au/our-facilities/australian-centre-for-neutron-scattering/call-for-proposals).
-
-#### Spallation Neutron Source (SNS) and High Flux Isotope Reactor (HFIR)
-HFIR and SNS is now accepting general use proposals. Deadline for submission of proposals is on 23rd March, 2022. More information will be found [here](https://neutrons.ornl.gov/users/proposal-calls).
 
 #### The Swiss Spallation Neutron Source (SINQ)
 The next proposal deadline is 15th May, 2022. More information will be found [here](https://www.psi.ch/en/sinq)
+
+#### Australian Centre for Neutron Scattering (ANSTO)
+ANSTO is not accepting any proposal. More information will be found [here](https://www.ansto.gov.au/our-facilities/australian-centre-for-neutron-scattering/call-for-proposals).
+
+#### Spallation Neutron Source (SNS) and High Flux Isotope Reactor (HFIR)
+HFIR and SNS is not accepting general use proposals.  More information will be found [here](https://neutrons.ornl.gov/users/proposal-calls).
 
 #### Institut Laue-Langevin (ILL)
 ILL is not accepting any beam time proposal now. More information will be found [here](https://www.ill.eu/users/applying-for-beamtime/proposal-submission).\
