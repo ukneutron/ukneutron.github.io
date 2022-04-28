@@ -6,7 +6,7 @@ indexing: false
 sitemap: false
 ---
 
-[Nomination for BTM Willis Prize 2022 is now open](https://ukneutron.org/general/2022/02/15/btm-willis-nom/).
+[Nomination for BTM Willis Prize 2022 is now closed](https://ukneutron.org/general/2022/02/15/btm-willis-nom/).
 
 [**Dr Alexander O’Malley wins BTM Willis Prize for 2022**](https://www.isis.stfc.ac.uk/Pages/WillisPrize2022.aspx)
 
