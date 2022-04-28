@@ -8,7 +8,7 @@ sitemap: false
 
 [Nomination for BTM Willis Prize 2022 is now open](https://ukneutron.org/general/2022/02/15/btm-willis-nom/).
 
-[**Joe Paddison wins BTM Willis Prize for 2021**](https://ukneutron.org/btm-willis-2021/)
+[**Dr Alexander O’Malley wins BTM Willis Prize for 2022**](https://www.isis.stfc.ac.uk/Pages/WillisPrize2022.aspx)
 
 The Neutron Scattering Group is a group jointly hosted by Institute of Physics ([IOP](https://www.iop.org/physics-community/special-interest-groups/neutron-scattering-group)) and the Royal Society of Chemistry ([RSC](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/neutron-scattering/)) to promote neutron science actively with its UK user community.
 Our aims are to:
