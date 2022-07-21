@@ -3,7 +3,7 @@ title: Early Career Meeting 2022
 categories:
 - General
 excerpt: |
-  Venue: Cosener's House, Abingdon 10 - 11 November 2022.
+  Venue: Cosener's House, Abingdon; 10 - 11 November 2022.
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
 ---
