@@ -4,10 +4,10 @@ categories:
 - General
 excerpt: |
   Venue: University of Sheffield, Sheffield, United Kingdom, 3–5 April 2023.
-.
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
+
 The Neutron Scattering Group is meeting as part of the Royal Society of Chemistry Joint Interest Group meeting in Sheffield next spring (April 3-5 2023). Information on themes and plenary and keynote speakers is available on the [website](https://rsc.li/FJIG2023).
 
 This meeting involves multiple parallel sessions and the sessions around Neutron Scattering are deliberately targeting any and all people who use neutrons in their science:
