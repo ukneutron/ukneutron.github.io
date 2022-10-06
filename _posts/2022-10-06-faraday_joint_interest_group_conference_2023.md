@@ -4,7 +4,7 @@ categories:
 - General
 excerpt: |
   Venue: University of Sheffield, Sheffield, United Kingdom, 3–5 April 2023.
-feature_image: "/assets/btm.png"
+feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
 ---
 
