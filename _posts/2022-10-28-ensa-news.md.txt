@@ -1,0 +1,24 @@
+---
+title: ENSA Update
+categories:
+- General
+Date: 2022-08-03
+excerpt: |
+News and updates from the European Neutron Scattering Association.
+feature_image: "/assets/isis.png"
+image: "/assets/isis.png"
+ 
+---
+
+### Call for Nominations for two ENSA prizes.
+
+The European Neutron Scattering Association (ENSA) invites nominations for the 2023 prizes and awards: [Neutron Instrumentation and Innovation Award](./../../../../../assets/NeutronInstrumentation_callfornominations_2023), [Walter Hälg Prize](./../../../../../assets/Walter Hälg_Call for Nominations_2023). 
+The prizes will be awarded at the [European Conference on Neutron Scattering 2023](https://indico.frm2.tum.de/event/263/) at Garching, Germany (ECNS 2023). 
+
+ 
+### ECNS Abstract Submission Deadline
+The Abstract Submission deadline for ECNS 2023 has been extended to 1st November, 2023.
+Register [here](https://indico.frm2.tum.de/event/263/registrations/). 
+ 
+### Subscribe to LENS newsletter
+To keep up to date with news, events and opportunities from the European neutron and muon community, it would be great to [subscribe to LENS email newsletter](./../../../../../assets/LENSsub.pdf). 
