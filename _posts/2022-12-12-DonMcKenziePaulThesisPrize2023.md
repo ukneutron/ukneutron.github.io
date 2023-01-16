@@ -1,10 +1,10 @@
 ---
-title: ENSA Update
+title: Don McKenzie Paul Thesis Prize 2023
 categories:
 - General
 Date: 2022-12-12
 excerpt: |
-  Don McKenzie Paul Thesis Prize 2023 – Call for nominations - Deadline 1st March 2023.
+   Call for nominations - Deadline 1st March 2023.
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
  
