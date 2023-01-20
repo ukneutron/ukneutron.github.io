@@ -1,5 +1,5 @@
 ---
-title: Don McKenzie Paul Thesis Prize 2023
+title: Don McKenzie Paul Thesis Prize 2023 – Call for nominations
 categories:
 - General
 Date: 2022-12-12
