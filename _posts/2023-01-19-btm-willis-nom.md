@@ -3,14 +3,14 @@ title: BTM Willis Prize 2023 – Call for Nominations
 categories:
 - General
 excerpt: |
-  Deadline 25 March 2023.
+  Deadline 24 March 2023.
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
 
 The UK Neutron Scattering Group and the Faraday Division of the Royal Society of Chemistry award an annual prize to outstanding early career scientists who make widespread use of neutron scattering. The prize is named in honour of the founding chairman of the UK Neutron Scattering Group, Professor B T M Willis.
 
-Nominations for the 2022 BTM Willis Prize are now open.  **Deadline: 5 GMT (Friday) 25 March 2023**
+Nominations for the 2022 BTM Willis Prize are now open.  **Deadline: 5 GMT (Friday) 24 March 2023**
 
 ## Terms: 
 The prize is awarded to an individual in recognition of a single outstanding piece of work, or of a longer term coherent body of work, in the use of neutrons applied to a significant scientific challenge, or alternatively in recognition of a major development in neutron instrumentation or techniques.
