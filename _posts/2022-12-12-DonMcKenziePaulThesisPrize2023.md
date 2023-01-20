@@ -8,8 +8,7 @@ excerpt: |
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
  
----
-### Don McKenzie Paul Thesis Prize 2023 – Call for nominations 
+--- 
 
 The Don McKenzie Paul Thesis Prize is awarded in recognition of a successfully examined PhD or DPhil thesis
 in which the use of neutrons plays a significant role in addressing a scientific challenge or alternatively, 
