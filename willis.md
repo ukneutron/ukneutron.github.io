@@ -6,9 +6,9 @@ sitemap: false
 
 {% include figure.html image="/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg" caption="Professor B.T.M. (Terry) Willis" width="200" %}
 
-[Nomination for BTM Willis Prize 2022 is now closed](https://ukneutron.org/general/2022/02/15/btm-willis-nom/).
+[Nomination for BTM Willis Prize 2023 is now open](https://ukneutron.org/general/2023/01/19/btm-willis-nom/).
 
-The BTM Willis prize is named in honour of Prof. Terry Willis – founder of the UK Neutron Scattering Group, and the well-known for Harwell (later Oxford) School of Neutron Scattering. Since 2001, the IOP Neutron Scattering Group and the Faraday Division of the Royal Society of Chemistry award the prize annually to an early career researcher in recognition of a single outstanding piece of work, or a longer-term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
+The BTM Willis prize is named in honour of Prof. Terry Willis – founder of the UK Neutron Scattering Group, and the well-known for Harwell (later Oxford) School of Neutron Scattering. Since 2001, the UK Neutron Scattering Group award the prize annually to an early career researcher in recognition of a single outstanding piece of work, or a longer-term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
 
 The prize is awarded to an individual in recognition of a single outstanding piece of work, or a longer term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
 
