@@ -1,5 +1,5 @@
 ---
-title: Prizes
+title: NSG Annual Prizes
 indexing: false
 sitemap: false
 feature_image: "/assets/btm.png"
