@@ -24,8 +24,7 @@ Our mission is to support and develop the UK neutron community in a rapidly chan
 Additionally, we award the [BTM Willis Prize](./willis), Don McKenzie Paul Thesis Prize and the Thomas-Penfold Poster Prize annually. 
 Examples of activities include organising and contributing to conferences and schools involving neutron scattering research, e.g. the [Faraday Joint Interest Group Conferences](https://warwick.ac.uk/fac/sci/chemistry/news/events/faraday2017/) in 2017, 2021 and 2023, the [Gordon Research Conferences on Neutron Scattering](https://www.grc.org/neutron-scattering-conference/), the biennial [Oxford School on Neutron Scattering](https://www.oxfordneutronschool.org/) and  [early career researcher meetings](https://ukneutron.org/early_career/) in 2020 and 2022.
 
-The NMSUM 2023 user survey is now open. Participate [here].
-(https://www.smartsurvey.co.uk/s/NMSUM23_UserSurvey/)
+The NMSUM 2023 user survey is now open. Participate [here](https://www.smartsurvey.co.uk/s/NMSUM23_UserSurvey/)
 
 
 <center><a class="twitter-timeline" data-width="350" data-height="500" data-theme="light" href="https://twitter.com/UkNeutron?ref_src=twsrc%5Etfw">Tweets by UkNeutron</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
