@@ -16,11 +16,11 @@ The prize is awarded to an individual in recognition of a single outstanding pie
 
 The recipient of the prize will normally be an early career scientist, i.e. in the first 12 years of a research career (allowing for career breaks) following the award of a first degree, who has made a substantial contribution to the development or reputation of physics / Chemistry / Biology in the UK or Ireland.
 
-## Judging:
+## Judging process:
 
-The panel to judge the prize will be composed of the Neutron Scattering Group committee, with external experts asked to join the panel to contribute expertise not covered by the committee. Committee members with a potential conflict of interest (e.g. supervisor/former supervisor of the candidate, or from the same department as the candidate) will not be involved in assessing that candidate’s nomination.
+The panel to judge the prize will comprise the Neutron Scattering Group committee and external experts asked to join the panel to contribute expertise not covered by the committee members. Committee members with a potential conflict of interest (e.g. supervisor or former supervisor of the candidate, or from the same department as the candidate) will not be involved in assessing that candidate’s nomination.
 
-The panel will assess the impact of each candidate’s work in terms of its quality, originality, rigour and significance, based on the evidence put forward by the candidate and their referees.  Metrics (journal impact factor and citations) will be of minor importance given the cross-disciplinary nature of the field of neutron work.
+The panel will assess the impact of each candidate’s work in terms of its quality, originality, rigour and significance, based on the evidence put forward by the candidate and their referees. Metrics such as journal impact factor and citation data will be of minor importance given the cross-disciplinary nature of the field of neutron work.
 
 
 ## Previous Winners
