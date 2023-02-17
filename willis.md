@@ -4,7 +4,7 @@ indexing: false
 sitemap: false
 ---
 
-[//]: # ({% include figure.html image="/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg" caption="Professor B.T.M. (Terry) Willis" width="200" %})
+[//]: <> ({% include figure.html image="/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg" caption="Professor B.T.M. (Terry) Willis" width="200" %})
 
 
 
