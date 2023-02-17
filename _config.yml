@@ -77,7 +77,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Neutron Scattering Group" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/logo_nsg_2023.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/NSG_Logo_with_text3.png" # Site logo, also used in jekyll-seo-tag
 description: "Representing UK users of neutron scattering" # Site description and default description, also used in jekyll-seo-tag
 url: "https://ukneutron.org" # Site url, also used in jekyll-seo-tag
 baseurl: ""
