@@ -1,10 +1,12 @@
 ---
-title: BTM Willis Prize
+title: Prizes
 indexing: false
 sitemap: false
 ---
 
-{% include figure.html image="/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg" caption="Professor B.T.M. (Terry) Willis" width="200" %}
+[//]: # {% include figure.html image="/assets/BTM-Willis-cite-NSGNewsLetterFeb2012.jpg" caption="Professor B.T.M. (Terry) Willis" width="200" %}
+
+# BTM Willis Prize
 
 [Nomination for BTM Willis Prize 2023 is now open](https://ukneutron.org/general/2023/01/19/btm-willis-nom/).
 
