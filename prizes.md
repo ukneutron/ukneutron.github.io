@@ -38,3 +38,7 @@ and the thesis awarding institution must be based in the United Kingdom or Repub
 
 # Thomas Penfold Poster Prize
 
+The prize is awarded for a student poster presenting work using neutrons Neutron and Muon Science Users Meeting (NMSUM).
+
+The panel will be made up of members of the NSG committee and plenary speakers from the NMSUM conference.
+
