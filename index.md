@@ -6,9 +6,9 @@ indexing: false
 sitemap: false
 ---
 
-[Nomination for Don McKenzie Paul Thesis Prize 2023 is now open](https://ukneutron.org/general/2022/12/12/DonMcKenziePaulThesisPrize2023/).
+[Nomination for Don McKenzie Paul Thesis Prize 2023 is now closed](https://ukneutron.org/general/2022/12/12/DonMcKenziePaulThesisPrize2023/).
 
-[Nomination for B. T. M. Willis Prize 2023 is now open](https://ukneutron.org/general/2023/01/19/btm-willis-nom/).
+[Nomination for B. T. M. Willis Prize 2023 is now closed](https://ukneutron.org/general/2023/01/19/btm-willis-nom/).
 
 [**Dr Alexander O’Malley wins BTM Willis Prize for 2022**](https://www.isis.stfc.ac.uk/Pages/WillisPrize2022.aspx)
 
