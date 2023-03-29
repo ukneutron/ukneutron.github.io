@@ -7,7 +7,7 @@ sitemap: false
 .
 
 #### ISIS Neutron and Muon Source
-ISIS is now accepting Rapid Access proposals.  Call for full proposals will be opened on 1st September. Deadline for submission is 19th October, 2022. More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
+ISIS is now accepting Direct Access proposals.  Call for full proposals for only second target station instruments is now open. Deadline for submission is 17:00 BST Wednesday 19 April 2023. More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
 ISIS is in a long shutdown to enable refurbishment of the [first target station](https://www.isis.stfc.ac.uk/Pages/Target-Station-1.aspx) and [replacement of a tank in the linear accelerator](https://www.isis.stfc.ac.uk/Pages/TH_LinacTank4_beadpull.aspx). More information about ISIS long shutdown will be found [here](https://www.isis.stfc.ac.uk/Pages/For-Users.aspx).
 
 #### J-PARC MLF
