@@ -15,7 +15,7 @@ J-PARC is now accepting only New Users Promotional proposals.  More information 
 
 
 #### The Swiss Spallation Neutron Source (SINQ)
-The next proposal deadline is 15th November, 2022. More information will be found [here](https://www.psi.ch/en/sinq)
+The next proposal round will be opened in Mat, 2023. Deadline is 15th May, 2023. More information will be found [here](https://www.psi.ch/en/sinq)
 
 
 #### Institut Laue-Langevin (ILL)
