@@ -28,7 +28,7 @@ ANSTO is now accepting proposals. Deadline is 15th March, 2024. More information
 
 
 #### Spallation Neutron Source (SNS) and High Flux Isotope Reactor (HFIR)
-HFIR and SNS is not accepting general use proposals.  Deadline has passed on 21st September, 2022. More information will be found [here](https://neutrons.ornl.gov/users/proposal-calls).
+HFIR and SNS is not accepting general use proposals.  Deadline has passed on 22nd February, 2023. Next poposal deadline will be Wednesday, August 30, 2023 (noon Eastern). More information will be found [here](https://neutrons.ornl.gov/users/proposal-calls).
 
 
 #### Heinz Maier-Leibnitz Zentrum (MLZ)
