@@ -11,7 +11,7 @@ ISIS is now accepting Direct Access proposals.  Call for full proposals for only
 ISIS is in a long shutdown to enable refurbishment of the [first target station](https://www.isis.stfc.ac.uk/Pages/Target-Station-1.aspx) and [replacement of a tank in the linear accelerator](https://www.isis.stfc.ac.uk/Pages/TH_LinacTank4_beadpull.aspx). More information about ISIS long shutdown will be found [here](https://www.isis.stfc.ac.uk/Pages/For-Users.aspx).
 
 #### J-PARC MLF
-J-PARC is accepting short and long term beam time proposals. Submit your proposals within 17th October - 7th Noverber, 2022.  More information will be found [here](https://mlfinfo.jp/en/user/proposals/#short-term).
+J-PARC is now accepting only New Users Promotional proposals.  More information will be found [here](https://mlfinfo.jp/en/user/proposals/#short-term).
 
 
 #### The Swiss Spallation Neutron Source (SINQ)
