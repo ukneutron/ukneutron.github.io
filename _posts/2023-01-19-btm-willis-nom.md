@@ -10,7 +10,7 @@ image: "/assets/btm.png"
 
 The BTM Willis Prize is awarded annually to an individual in recognition of a single outstanding piece of work, or of a longer term coherent body of work, in the use of neutrons applied to a significant scientific challenge or alternatively, in recognition of a major development in neutron instrumentation or techniques.  The prize is named in honour of Prof. Terry Willis – founder of the UK Neutron Scattering Group, and the well-known Harwell (later Oxford) School of Neutron Scattering.
 
-Nominations for the 2023 BTM Willis Prize are now open.  **Deadline: 5 GMT (Friday) 24 March 2023**
+Nomination for the 2023 BTM Willis Prize is now closed.  **Deadline: 5 GMT (Friday) 24 March 2023**
 
 ## Eligibility: 
 The recipient of the prize will be a scientist, in the first 12 years of a research career following the award of a first degree (allowing for career breaks), who has made a substantial contribution to the development or reputation of neutron science in the UK or Ireland.
