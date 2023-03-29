@@ -24,7 +24,7 @@ ILL is in a long shutdown to facilitate the ILL20-23 programme, whch is the ILLâ
 
 
 #### Australian Centre for Neutron Scattering (ANSTO)
-ANSTO is not accepting proposals. Deadline has passed on 15th September, 2022. More information will be found [here](https://www.ansto.gov.au/our-facilities/australian-centre-for-neutron-scattering/call-for-proposals).
+ANSTO is now accepting proposals. Deadline is 15th March, 2024. More information will be found [here](https://www.ansto.gov.au/our-facilities/australian-centre-for-neutron-scattering/call-for-proposals).
 
 
 #### Spallation Neutron Source (SNS) and High Flux Isotope Reactor (HFIR)
