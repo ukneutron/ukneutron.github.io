@@ -10,9 +10,9 @@ sitemap: false
 
 [Nomination for B. T. M. Willis Prize 2023 is now closed](https://ukneutron.org/general/2023/01/19/btm-willis-nom/).
 
-[**Dr Harrison Laurent wins the 2023 Don McKenzie Paul Thesis Prize**](https://www.isis.stfc.ac.uk/Pages/News23_DonMcKenziePaulPrize.aspx)
+[**Dr Harrison Laurent wins the Don McKenzie Paul Thesis Prize 2023**](https://www.isis.stfc.ac.uk/Pages/News23_DonMcKenziePaulPrize.aspx)
 
-[**Dr Otto Mustonen wins the 2023 BTM Willis Prize**](https://www.isis.stfc.ac.uk/Pages/News23_WillisPrize.aspx)
+[**Dr Otto Mustonen wins the BTM Willis Prize 2023**](https://www.isis.stfc.ac.uk/Pages/News23_WillisPrize.aspx)
 
 The Neutron Scattering Group is a group jointly hosted by Institute of Physics ([IOP](https://www.iop.org/physics-community/special-interest-groups/neutron-scattering-group)) and the Royal Society of Chemistry ([RSC](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/neutron-scattering/)) to promote neutron science actively with its UK user community.
 Our aims are to:
