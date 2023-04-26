@@ -23,6 +23,7 @@ The panel will assess the impact of each candidate’s work in terms of its qual
 
 
 ## Previous Winners
+- 2023: [Dr. Otto Mustonen](https://www.isis.stfc.ac.uk/Pages/News23_WillisPrize.aspx), University of Birmingham
 - 2022: [Dr Alexander O’Malley](https://www.isis.stfc.ac.uk/Pages/WillisPrize2022.aspx), University of Bath
 - 2021: [Dr. Joe Paddison](https://ukneutron.org/btm-willis-2021/), Oak Ridge National Laboratory
 - 2020: [Dr. Emily Draper](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2020---Dr-Emily-Draper.aspx), University of Glasgow
