@@ -13,11 +13,8 @@ The NSG Committee consists of the following members:
 - Sanghamitra Mukhopadhyay (**ISIS Representative**)- ISIS Neutron and Muon Source
 - [Andrew McCluskey](https://armccluskey.com) (**Early Career Representative**) - European Spallation Source & University of Bath
 - David Barlow (**ENSA Representative**) - King's College London
-- Jayne Lawrence - University of Manchester
-- Elisabetta Canetta - St Mary's University
 - Eddie Cussen - University of Sheffield
 - David Boldrin - University of Glasgow
-- Natasha Rhys - Kings College London
 - Gregory Smith - ISIS Neutron and Muon Source
 - Lucy Clark - University of Birmingham
 
