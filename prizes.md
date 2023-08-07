@@ -20,7 +20,7 @@ For more information about the prize see [here](/willis/)
 
 # Don McKenzie Paul Thesis Prize
 
-<---[Nomination for Don McKenzie Paul Thesis Prize 2023 is now closed](https://ukneutron.org/general/2022/12/12/DonMcKenziePaulThesisPrize2023/).--->
+<!---[Nomination for Don McKenzie Paul Thesis Prize 2023 is now closed](https://ukneutron.org/general/2022/12/12/DonMcKenziePaulThesisPrize2023/).--->
 
 The Don McKenzie Paul Thesis Prize is awarded in recognition of a successfully examined PhD or DPhil thesis
 in which the use of neutrons plays a significant role in addressing a scientific challenge or alternatively, 
