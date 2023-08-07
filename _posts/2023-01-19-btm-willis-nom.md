@@ -16,7 +16,7 @@ Nomination for the 2023 BTM Willis Prize is now closed.  **Deadline: 5 GMT (Frid
 The recipient of the prize will be a scientist, in the first 12 years of a research career following the award of a first degree (allowing for career breaks), who has made a substantial contribution to the development or reputation of neutron science in the UK or Ireland.
  
 ## Nomination:
-The nomination may be submitted by any nominator familiar with the work of the nominee and with knowledge and permission of the nominee. Self-nominations are permitted. The names of two referees willing to provide supporting statements should be given. Nominees submitted previously are welcome to submit again provided they still meet the eligibility requirements. Submit nomination [here](https://www.smartsurvey.co.uk/s/NSG-BTM-Willis-Prize/). 
+The nomination may be submitted by any nominator familiar with the work of the nominee and with knowledge and permission of the nominee. Self-nominations are permitted. The names of two referees willing to provide supporting statements should be given. Nominees submitted previously are welcome to submit again provided they still meet the eligibility requirements. <!---Submit nomination [here](https://www.smartsurvey.co.uk/s/NSG-BTM-Willis-Prize/).---> 
 
 ## Judging process:
 The panel to judge the prize will comprise the Neutron Scattering Group committee and external experts asked to join the panel to contribute expertise not covered by the committee members. Committee members with a potential conflict of interest (e.g. supervisor or former supervisor of the candidate, or from the same department as the candidate) will not be involved in assessing that candidate’s nomination.
