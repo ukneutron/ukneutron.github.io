@@ -11,7 +11,7 @@ Neutrons are now used for research in physics, chemistry, materials science, geo
 
 In the UK the neutron scattering field has been extensively supported by provision of facilities at the [ISIS Neutron and Muon source](https://www.isis.stfc.ac.uk/Pages/home.aspx) at the Rutherford Appleton Laboratory in Oxfordshire, and the [Institut Laue-Langevin (ILL)](https://www.ill.eu/) in Grenoble, France. 
 These world-leading accelerator and reactor sources are both funded by the Science and Technology Facilities Council ([STFC](https://stfc.ukri.org/)). 
-In addition, the UK is funding and supporting the construction of the [European Spallation Source (ESS)](https://europeanspallationsource.se/) in Lund, Sweden, which will be the most powerful spallation source world-wide once it comes online in 2023.
+In addition, the UK is funding and supporting the construction of the [European Spallation Source (ESS)](https://europeanspallationsource.se/) in Lund, Sweden, which will be the most powerful spallation source world-wide once it comes online in 2027.
 
 Thanks to engagement in these three major facilities, the NSG represents the interests of UK users of scientific neutron radiation towards our own and other international neutron sources, as well as facilitating the dissemination of new UK neutron science at national and international conferences. 
 Indeed the NSG has representative members from all three facilities and also from the European Neutron Scattering Association. 
