@@ -18,4 +18,4 @@ In September 2023, candidates will be asked to confirm their interest and will t
 
 Shortlisted candidates will be invited to present to the ENSA committee in November 2023, and the successful candidate appointed following election by the committee members.
 
-* The role of ENSA chair is not honorary and requires some time commitment. The successful candidate will ideally having internal (institution/facility) resources to ensure fulfilment of this commitment.
+\* The role of ENSA chair is not honorary and requires some time commitment. The successful candidate will ideally having internal (institution/facility) resources to ensure fulfilment of this commitment.
