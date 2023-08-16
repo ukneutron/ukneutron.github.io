@@ -10,9 +10,6 @@ sitemap: false
 ISIS is not accepting Direct Access proposals.  Call for full proposals for both  target station instruments will be opened on 1st September. Deadline for submission is 17:00 BST Wednesday 18 October 2023. More information will be found [here](https://www.isis.stfc.ac.uk/Pages/Apply-for-beamtime.aspx).\
 ISIS has finished its long shutdown to enable refurbishment of the [first target station](https://www.isis.stfc.ac.uk/Pages/Target-Station-1.aspx) and [replacement of a tank in the linear accelerator](https://www.isis.stfc.ac.uk/Pages/TH_LinacTank4_beadpull.aspx). More information about ISIS long shutdown will be found [here](https://www.isis.stfc.ac.uk/Pages/For-Users.aspx).
 
-#### J-PARC MLF
-J-PARC is now accepting only New Users Promotional proposals.  More information will be found [here](https://mlfinfo.jp/en/user/proposals/#short-term).
-
 
 #### The Swiss Spallation Neutron Source (SINQ)
 The next proposal round will be opened in Mat, 2023. Deadline is 15th May, 2023. More information will be found [here](https://www.psi.ch/en/sinq)
@@ -34,6 +31,8 @@ HFIR and SNS is not accepting general use proposals.  Deadline has passed on 22n
 #### Heinz Maier-Leibnitz Zentrum (MLZ)
 MLZ is not accepting any beam time proposal now. More information will be found [here](https://mlz-garching.de/user-office)
 
+#### J-PARC MLF
+J-PARC is not accepting short or long term proposals.  More information will be found [here](https://mlfinfo.jp/en/user/proposals/#short-term).
 
 
 
