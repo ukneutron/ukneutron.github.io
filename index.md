@@ -10,6 +10,8 @@ sitemap: false
 
 <!---[Nomination for B. T. M. Willis Prize 2023 is now closed](https://ukneutron.org/general/2023/01/19/btm-willis-nom/).--->
 
+[**News! Call for nomination - ENSA Chair**](https://ukneutron.org/general/2023/07/10/ensa-chair/)
+
 [**Dr Harrison Laurent wins the Don McKenzie Paul Thesis Prize 2023**](https://www.isis.stfc.ac.uk/Pages/News23_DonMcKenziePaulPrize.aspx)
 
 [**Dr Otto Mustonen wins the BTM Willis Prize 2023**](https://www.isis.stfc.ac.uk/Pages/News23_WillisPrize.aspx)
