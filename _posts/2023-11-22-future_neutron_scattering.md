@@ -1,13 +1,11 @@
 ---
 title: Future Perspectives on Neutron Scattering
-categories:
+categories: 
 - General
-Date: 2024-01-17
-excerpt: |
-Registration now open
+- excerpt: |
+   Registration now open. Deadline 17th January 2024
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
- 
 ---
 
 The IOP/RSC Neutron Scattering Group (NSG) Future Perspectives Meeting aims to bring together new and established users of neutron scattering facilities to discuss future opportunities in neutron scattering science.
@@ -15,19 +13,21 @@ The European neutron scattering landscape is changing, with recent major investm
 During this meeting, the IOP/RSC Neutron Scattering Group will canvas the views of new and established neutron facility users on how we can capitalise on recent facility and instrumentation developments and become resilient to future challenges.
 
 Confirmed invited speakers include:
-•	Prof. Andrew Boothroyd, University of Oxford,
-•	Dr Helen Beadman, Science and Technology Facilities Council,
-•	Prof. Serena Cussen, University of Sheffield,
-•	Dr Fabrizia Foglia, University College London,
-•	Prof. Mike Hayward, University of Oxford,
-•	Prof. John Holbrey, Queen's University Belfast,
-•	Dr Alex O'Malley, University of Bath,
-•	Dr Paz Vaqueiro, University of Reading.
+
+* Prof. Andrew Boothroyd, University of Oxford,
+* Dr Helen Beadman, Science and Technology Facilities Council,
+* Prof. Serena Cussen, University of Sheffield,
+* Dr Fabrizia Foglia, University College London,
+* Prof. Mike Hayward, University of Oxford,
+* Prof. John Holbrey, Queen's University Belfast,
+* Dr Alex O'Malley, University of Bath,
+* Dr Paz Vaqueiro, University of Reading.
+  
 The UK Neutron Scattering Group is a joint interest group of the IOP and RSC that supports and develops the UK neutron community. You can find out more about the group at [ukneutron.org](https://ukneutron.org).
 
-##[Registration now open](https://iop.eventsair.com/fpns2024/)
+### [Registration now open](https://iop.eventsair.com/fpns2024/)
 
-##Deadline: 10 January 2024
+### Deadline: 10 January 2024
 
 
 
