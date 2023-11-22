@@ -6,11 +6,8 @@ indexing: false
 sitemap: false
 ---
 
-<!---[Nomination for Don McKenzie Paul Thesis Prize 2023 is now closed](https://ukneutron.org/general/2022/12/12/DonMcKenziePaulThesisPrize2023/).--->
 
-<!---[Nomination for B. T. M. Willis Prize 2023 is now closed](https://ukneutron.org/general/2023/01/19/btm-willis-nom/).--->
-
-[**News! Call for nomination - ENSA Chair**](https://ukneutron.org/general/2023/07/10/ensa-chair/)
+[**News! Registration Open! Future Perspectives on Neutron Scattering **](https://ukneutron.org/general/2023/11/22/future_neutron_scattering/)
 
 [**Dr Harrison Laurent wins the Don McKenzie Paul Thesis Prize 2023**](https://www.isis.stfc.ac.uk/Pages/News23_DonMcKenziePaulPrize.aspx)
 
