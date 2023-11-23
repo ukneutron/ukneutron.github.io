@@ -3,7 +3,7 @@ title: Future Perspectives on Neutron Scattering
 categories: 
 - General
 excerpt: |
-   Registration now open. Deadline 17th January 2024
+   Registration now open. Deadline 10th January 2024
 feature_image: "/assets/isis.png"
 image: "/assets/isis.png"
 ---
