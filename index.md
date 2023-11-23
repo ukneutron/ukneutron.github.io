@@ -7,7 +7,7 @@ sitemap: false
 ---
 
 
-[**News! Registration Open! Future Perspectives on Neutron Scattering **](https://ukneutron.org/general/2023/11/22/future_neutron_scattering/)
+[**News! Registration Open! Future Perspectives on Neutron Scattering**](https://ukneutron.org/general/2023/11/22/future_neutron_scattering/)
 
 [**Dr Harrison Laurent wins the Don McKenzie Paul Thesis Prize 2023**](https://www.isis.stfc.ac.uk/Pages/News23_DonMcKenziePaulPrize.aspx)
 
