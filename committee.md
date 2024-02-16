@@ -6,7 +6,8 @@ sitemap: false
 
 The NSG Committee consists of the following members:
 - Ross Stewart (**Chair**) - ISIS Neutron and Muon Source
-- Emma McCabe (**Secretary**) - Durham University 
+- Lucy Clark (**Secretary**)- University of Birmingham
+- Emma McCabe  - Durham University 
 - Richard Campbell (**Treasurer**) - University of Manchester
 - Nina-Juliane Steinke (**ILL Representative**) - Institut Laue-Langevin
 - Pascale Deen (**ESS Representative**) - European Spallation Source
@@ -16,6 +17,9 @@ The NSG Committee consists of the following members:
 - Eddie Cussen - University of Sheffield
 - David Boldrin - University of Glasgow
 - Gregory Smith - ISIS Neutron and Muon Source
-- Lucy Clark - University of Birmingham
+- Svemir Rudic - ISIS Neutron and Muon Source
+- Martin King - Royal Holloway University of London
+- Carla Andreani - University of Rome Tor Vergata
 
+  
 You can get in touch with the committee using the following email address: [committee@ukneutron.org](mailto:committee@ukneutron.org)
