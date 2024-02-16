@@ -17,7 +17,9 @@ or development of neutron scattering to a significant problem in the physical sc
 life science or engineering. 
 
 Nomination for the 2024 BTM Willis Prize is now closed.  **Deadline: 5 GMT (Thursday) 21st March 2024**
+
 Prize announcement and lecture: 11th April, NMSUM 2024, University of Warwick
+
 Link for nominations will be found [here](https://forms.office.com/e/Xd3m8LtxWj)
 
 
@@ -59,34 +61,34 @@ To make a nomination, please use the online nomination form to submit the follow
 ***Selection Criteria and Judging Panel***
 
 Each year, nominations for the BTM Willis Prize are judged by a sub-section of the NSG Committee. The judging panel base their evaluations on the overall quality of the relevant contributions and achievements of nominees, in relation to the following selection criteria:
-•	Originality of research,
-•	Impact of research,
-•	Quality of publications, instrumentation, software, or patents,
-•	Innovation,
-•	Professional standing,
-•	Independence,
-•	Collaborations and teamwork,
-•	Other indicators of esteem indicated by the nominator and referee.
+*	Originality of research,
+* Impact of research,
+* Quality of publications, instrumentation, software, or patents,
+* Innovation,
+* Professional standing,
+* Independence,
+* Collaborations and teamwork,
+* Other indicators of esteem indicated by the nominator and referee.
 
 The scientific content of any supporting publications, as described in the supporting statements, is much more important than publication metrics or the identity of the journal in which it is published. The judging panel will also give greater priority to more recent and/or independent research, thus, supporting statements should focus on the nominee's more recent achievements.
 Examples of relevant contributions of your nominee to the broader neutron scattering community could include, but are not limited to:
-•	Involvement with neutron scattering interest groups and committees,
-•	Teaching or demonstrating of neutron scattering sciences,
-•	Effective mentorship within the community and beyond,
-•	Service on boards, committees, or panels,
-•	Leadership in the scientific community,
-•	Peer reviewing,
-•	Promotion of equality, diversity, and inclusion,
-•	Advocacy for neutron scattering,
-•	Public engagement and outreach.
+* Involvement with neutron scattering interest groups and committees,
+* Teaching or demonstrating of neutron scattering sciences,
+* Effective mentorship within the community and beyond,
+* Service on boards, committees, or panels,
+* Leadership in the scientific community,
+* Peer reviewing,
+* Promotion of equality, diversity, and inclusion,
+* Advocacy for neutron scattering,
+* Public engagement and outreach.
 
-The members of the 2024 BTM Willis Judging Panel are:
-Martin King, Royal Holloway University of London
-Carla Andreani, University of Rome Tor Vergata
-Dave Barlow, University of Manchester
-Eddie Cussen, University of Sheffield
-Pascale Deen, European Spallation Source
-Sanghamitra Mukhopadhyay, ISIS Neutron and Muon Source
+The members of the 2024 BTM Willis Judging Panel are: \
+Martin King, Royal Holloway University of London \
+Carla Andreani, University of Rome Tor Vergata \
+Dave Barlow, University of Manchester \
+Eddie Cussen, University of Sheffield \
+Pascale Deen, European Spallation Source \
+Sanghamitra Mukhopadhyay, ISIS Neutron and Muon Source 
 
 
 
