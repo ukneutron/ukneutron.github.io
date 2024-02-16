@@ -83,12 +83,12 @@ Examples of relevant contributions of your nominee to the broader neutron scatte
 * Public engagement and outreach.
 
 The members of the 2024 BTM Willis Judging Panel are: \
-Martin King, Royal Holloway University of London \
-Carla Andreani, University of Rome Tor Vergata \
-Dave Barlow, University of Manchester \
-Eddie Cussen, University of Sheffield \
-Pascale Deen, European Spallation Source \
-Sanghamitra Mukhopadhyay, ISIS Neutron and Muon Source 
+> Martin King, Royal Holloway University of London \
+> Carla Andreani, University of Rome Tor Vergata \
+> Dave Barlow, University of Manchester \
+> Eddie Cussen, University of Sheffield \
+> Pascale Deen, European Spallation Source \
+> Sanghamitra Mukhopadhyay, ISIS Neutron and Muon Source 
 
 
 
