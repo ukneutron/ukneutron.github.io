@@ -7,7 +7,7 @@ sitemap: false
 ---
 
 
-**News! Registration Open! BTM Willis Prize 2024**
+[**News! Registration Open! BTM Willis Prize 2024**](https://ukneutron.org/general/2024/02/16/btm-willis-noms-2024/)
 
 [**Dr Harrison Laurent wins the Don McKenzie Paul Thesis Prize 2023**](https://www.isis.stfc.ac.uk/Pages/News23_DonMcKenziePaulPrize.aspx)
 
