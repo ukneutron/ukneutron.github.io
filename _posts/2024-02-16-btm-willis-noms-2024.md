@@ -16,7 +16,7 @@ The BTM Willis Prize is awarded to an individual for an outstanding body of work
 or development of neutron scattering to a significant problem in the physical sciences, 
 life science or engineering. 
 
-Nomination for the 2024 BTM Willis Prize is now closed.  **Deadline: 5 GMT (Thursday) 21st March 2024**
+Nomination for the 2024 BTM Willis Prize is now open.  **Deadline: 5 GMT (Thursday) 21st March 2024**
 
 Prize announcement and lecture: 11th April, NMSUM 2024, University of Warwick
 
@@ -43,7 +43,7 @@ To ensure we have the most competitive nominations, we encourage nominators to u
 their nomination each year when the Prize call is open.
 
 
-***Guidelines for Nominators***
+## Guidelines for Nominators:
 To make a nomination, please use the online nomination form to submit the following information:
 
 1.	Your name and contact details.
@@ -58,8 +58,7 @@ To make a nomination, please use the online nomination form to submit the follow
 9.	All parts of the nomination, including referee statements, must be complete and submitted before the nomination deadline of 17:00 GMT 21st March 2024.
 10.	It is the nominator’s responsibility to ensure that the referee is aware of the nomination, that they should expect an e-mail invitation to submit their reference, and that they are aware of what is required to ensure that the reference is submitted before the deadline.
 
-***Selection Criteria and Judging Panel***
-
+## Selection Criteria and Judging Panel
 Each year, nominations for the BTM Willis Prize are judged by a sub-section of the NSG Committee. The judging panel base their evaluations on the overall quality of the relevant contributions and achievements of nominees, in relation to the following selection criteria:
 *	Originality of research,
 * Impact of research,
@@ -82,7 +81,8 @@ Examples of relevant contributions of your nominee to the broader neutron scatte
 * Advocacy for neutron scattering,
 * Public engagement and outreach.
 
-The members of the 2024 BTM Willis Judging Panel are: \
+The members of the 2024 BTM Willis Judging Panel are: 
+
 > Martin King, Royal Holloway University of London \
 > Carla Andreani, University of Rome Tor Vergata \
 > Dave Barlow, University of Manchester \
