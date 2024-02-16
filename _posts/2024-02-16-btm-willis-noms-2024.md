@@ -3,7 +3,7 @@ title: BTM Willis Prize 2024 – Call for Nominations
 categories:
 - General
 excerpt: |
-  Deadline 21st March 2024.
+  Deadline 18th March 2024.
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
@@ -16,7 +16,7 @@ The BTM Willis Prize is awarded to an individual for an outstanding body of work
 or development of neutron scattering to a significant problem in the physical sciences, 
 life science or engineering. 
 
-Nomination for the 2024 BTM Willis Prize is now open.  **Deadline: 5 GMT (Thursday) 21st March 2024**
+Nomination for the 2024 BTM Willis Prize is now open.  **Deadline: 5 GMT (Monday) 18th March 2024**
 
 Prize announcement and lecture: 11th April, NMSUM 2024, University of Warwick
 
