@@ -64,12 +64,12 @@ To make a nomination, please use the online nomination form to submit the follow
 3.	An up-do-date CV of your nominee (no longer than one side of A4, 11 pt text), including a summary of their education and career and up to five key outputs, e.g. publications, instrumentation development, software development or patents.
 4.	Brief details (up to 150 words) of your nominee’s professional experience,in relation to the career stage-related
 5.	eligibility criteria detailed above. Please include details of any career breaks or periods of absence that you feel that the judging committee should consider.
-5.	A short citation describing what the nominee should be recognised for. This should be no longer than a sentence of 250 characters maximum (including spaces).
-6.	A supporting statement (up to 750 words) addressing how your nominee meets the selection criteria.
-7.	A statement (up to 100 words) describing how your nominee has contributed more broadly to the neutron scattering community. 
-8.  The names and contact details of a referee who will be required to provide a referee statement (up to 750 words) through the online system. As soon you submit your referee’s details, they will receive an automated e-mail with a link to submit their reference.
-9.  All parts of the nomination, including referee statements, must be complete and submitted before the nomination deadline of 17:00 GMT 21st March 2024.
-10.	It is the nominator’s responsibility to ensure that the referee is aware of the nomination, that they should expect an e-mail invitation to submit their reference, and that they are aware of what is required to ensure that the reference is submitted before the deadline.	
+6.	A short citation describing what the nominee should be recognised for. This should be no longer than a sentence of 250 characters maximum (including spaces).
+7.	A supporting statement (up to 750 words) addressing how your nominee meets the selection criteria.
+8.	A statement (up to 100 words) describing how your nominee has contributed more broadly to the neutron scattering community. 
+9.  The names and contact details of a referee who will be required to provide a referee statement (up to 750 words) through the online system. As soon you submit your referee’s details, they will receive an automated e-mail with a link to submit their reference.
+10.  All parts of the nomination, including referee statements, must be complete and submitted before the nomination deadline.
+11.	It is the nominator’s responsibility to ensure that the referee is aware of the nomination, that they should expect an e-mail invitation to submit their reference, and that they are aware of what is required to ensure that the reference is submitted before the deadline.	
 
 
 ## Previous Winners
