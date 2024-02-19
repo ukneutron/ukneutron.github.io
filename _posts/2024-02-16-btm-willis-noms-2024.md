@@ -16,7 +16,7 @@ The BTM Willis Prize is awarded to an individual for an outstanding body of work
 or development of neutron scattering to a significant problem in the physical sciences, 
 life science or engineering. 
 
-Nomination for the 2024 BTM Willis Prize is now open.  **Deadline: 5 GMT (Monday) 18th March 2024**
+Nomination for the 2024 BTM Willis Prize is now open.  **Deadline: 18th March 2024 (Monday) untill 5 GMT**
 
 Prize announcement and lecture: 11th April, NMSUM 2024, University of Warwick
 
@@ -55,7 +55,7 @@ To make a nomination, please use the online nomination form to submit the follow
 6.	A supporting statement (up to 750 words) addressing how your nominee meets the selection criteria.
 7.	A statement (up to 100 words) describing how your nominee has contributed more broadly to the neutron scattering community. 
 8.	The names and contact details of a referee who will be required to provide a referee statement (up to 750 words) through the online system. As soon you submit your referee’s details, they will receive an automated e-mail with a link to submit their reference.
-9.	All parts of the nomination, including referee statements, must be complete and submitted before the nomination deadline of 17:00 GMT 21st March 2024.
+9.	All parts of the nomination, including referee statements, must be complete and submitted before the nomination deadline of 17:00 GMT 18th March 2024.
 10.	It is the nominator’s responsibility to ensure that the referee is aware of the nomination, that they should expect an e-mail invitation to submit their reference, and that they are aware of what is required to ensure that the reference is submitted before the deadline.
 
 ## Selection Criteria and Judging Panel
