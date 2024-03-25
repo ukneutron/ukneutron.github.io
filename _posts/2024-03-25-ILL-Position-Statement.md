@@ -9,4 +9,4 @@ image: "/assets/isis.png"
 ---
 
 A statement on the position of the NSG concerning the future running of the ILL reactor has been released at the end of 2023.  
-A copy of this statement is available to download [here](./assets/uk-nsg-ill-position.pdf).
+A copy of this statement is available to download [here](./../../../../../assets/uk-nsg-ill-position.pdf).
