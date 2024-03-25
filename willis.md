@@ -10,7 +10,7 @@ sitemap: false
 The BTM Willis prize is named in honour of Prof. Terry Willis – founder of the UK Neutron Scattering Group, and the well-known for Harwell (later Oxford) School of Neutron Scattering. Since 2001, the UK Neutron Scattering Group awards the prize annually to an early career researcher in recognition of a single outstanding piece of work, or a longer-term coherent body of work, in the application of neutron scattering to a significant problem in physics, chemistry, materials science, earth science, the life sciences, or engineering, or alternatively in recognition of a major development in neutron scattering instrumentation or techniques.
 
 
-## Eligibility
+<!---## Eligibility
 
 The BTM Willis Prize is open to nominees based in the UK or Ireland only. 
 Nominees should be an **early-career scientist**, typically with **no more than 10 years of full-time 
@@ -69,8 +69,7 @@ To make a nomination, please use the online nomination form to submit the follow
 8.	A statement (up to 100 words) describing how your nominee has contributed more broadly to the neutron scattering community. 
 9.  The names and contact details of a referee who will be required to provide a referee statement (up to 750 words) through the online system. As soon you submit your referee’s details, they will receive an automated e-mail with a link to submit their reference.
 10.  All parts of the nomination, including referee statements, must be complete and submitted before the nomination deadline.
-11.	It is the nominator’s responsibility to ensure that the referee is aware of the nomination, that they should expect an e-mail invitation to submit their reference, and that they are aware of what is required to ensure that the reference is submitted before the deadline.	
-
+11.	It is the nominator’s responsibility to ensure that the referee is aware of the nomination, that they should expect an e-mail invitation to submit their reference, and that they are aware of what is required to ensure that the reference is submitted before the deadline.	--->
 
 ## Previous Winners
 - 2023: [Dr. Otto Mustonen](https://www.isis.stfc.ac.uk/Pages/News23_WillisPrize.aspx), University of Birmingham
