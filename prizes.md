@@ -24,7 +24,9 @@ Further information on Prof. Don McKenzie Paul and his research [here](https://w
 
 Nominations can be made on behalf of candidates who have successfully submitted and defended a PhD thesis within the last 24 months of the nomination deadline. 
 To be eligible for the prize, nominators must confirm that their nominee has had any thesis corrections approved and that the recommendation for award of a PhD degree has been made by the thesis examiners.
-The degree awarding institution must be based in the United Kingdom or Republic of Ireland. The next call for the Don McKenzie Paul Thesis Prize will open in Spring 2025.
+The degree awarding institution must be based in the United Kingdom or Republic of Ireland.
+Information about previous Don McKenzie Paul Prize winners can be found [here](./../don_paul).
+The next call for the Don McKenzie Paul Thesis Prize will open in Spring 2025.
 
 ## Thomas Penfold Poster Prize
 
