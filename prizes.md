@@ -13,7 +13,7 @@ The BTM Willis Prize is awarded annually by the UK Neutron Scattering Group (NSG
 The Prize is named in honour of Prof. B. Terrence (Terry) M. Willis, a pioneer in the development and teaching of neutron scattering in the UK and founder of the NSG. 
 The BTM Willis Prize is awarded to an individual for an outstanding body of work in the application or development of neutron scattering to a significant problem in the physical sciences, life science or engineering. 
 The BTM Willis Prize is open to nominees based in the UK or Ireland only. Nominees should be an early-career scientist, typically with no more than 10 years of full-time equivalent professional experience.
-More information about the BTM Willis Prize can be found [here](./../willis).
+Information about previous BTM Willis Prize winners can be found [here](./../willis).
 
 ## Don McKenzie Paul Thesis Prize
 
