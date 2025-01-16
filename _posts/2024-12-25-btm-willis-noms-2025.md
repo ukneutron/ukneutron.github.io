@@ -17,5 +17,5 @@ We are now seeking nominations for the 2025 BTM Willis Prize via the nomination 
 
 Full details for the nomination process and selection criteria are given on the nomination website.
  
-##The closing date for nominations is 17:00 GMT on the 10th February 2025
+## The closing date for nominations is 17:00 GMT on the 10th February 2025
 
