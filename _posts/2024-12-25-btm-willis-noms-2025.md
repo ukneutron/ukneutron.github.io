@@ -1,10 +1,9 @@
 ---
-title: BTM Willis Prize 2025 - Call for Nominations
+title: BTM Willis Prize 2025 – Call for Nominations
 categories:
 - General
-Date: 2024-12-25
 excerpt: |
-Nominations are open for the BTM Willis Prize 2025.
+  Deadline 17:00 GMT on the 10th February 2025
 feature_image: "/assets/btm.png"
 image: "/assets/btm.png"
 ---
