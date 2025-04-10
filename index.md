@@ -6,8 +6,8 @@ indexing: false
 sitemap: false
 ---
 
-[**BTM Willis Prize 2025 - Call for Nominations**](https://ukneutron.org/general/2024/12/25/btm-willis-noms-2025/)
-**Deadline 17:00 GMT on the 10th February 2025**
+**BTM Willis Prize 2025 - Winner**
+[**Dr Adam Michalchuk wins the BTM Willis Prize 2025**](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx)
 
 [**Don McKenzie Paul Thesis Prize 2025 - Call for Nominations**](https://ukneutron.org/general/2024/12/24/Don-Paul-Thesis-Prize_2025/)
 **Deadline 17:00 GMT on the 10th February 2025**
