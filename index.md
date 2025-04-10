@@ -6,11 +6,12 @@ indexing: false
 sitemap: false
 ---
 
-**BTM Willis Prize 2025 - Winner**
-[**Dr Adam Michalchuk wins the BTM Willis Prize 2025**](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx)
+**BTM Willis Prize 2025 - Winner:**
+[**Dr Adam Michalchuk**](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx)
 
-[**Don McKenzie Paul Thesis Prize 2025 - Call for Nominations**](https://ukneutron.org/general/2024/12/24/Don-Paul-Thesis-Prize_2025/)
-**Deadline 17:00 GMT on the 10th February 2025**
+**Don McKenzie Paul Thesis Prize 2025 - Winner:**
+**Dr. Jennifer Nadine Graham**
+
 
 [**UK NSG ILL Position Statement**](https://ukneutron.org/general/2024/03/25/ILL-Position-Statement/)
 
