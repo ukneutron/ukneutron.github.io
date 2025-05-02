@@ -4,6 +4,7 @@ indexing: false
 sitemap: false
 ---
 
+- 2025: [Dr Adam Michalchuk](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx), University of Birmingham
 - 2024: [Dr. Andrew McCluskey](https://www.isis.stfc.ac.uk/Pages/Dr-Andrew-McCluskey-wins-the-2024-BTM-Willis-Prize.aspx), University of Bristol
 - 2023: [Dr. Otto Mustonen](https://www.isis.stfc.ac.uk/Pages/News23_WillisPrize.aspx), University of Birmingham
 - 2022: [Dr Alexander O’Malley](https://www.isis.stfc.ac.uk/Pages/WillisPrize2022.aspx), University of Bath
