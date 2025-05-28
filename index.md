@@ -12,7 +12,8 @@ sitemap: false
 **Don McKenzie Paul Thesis Prize 2025 - Winner:**
 **Dr. Jennifer Nadine Graham**
 
-<span style="color:red"> **The associate partners of the ILL (UK, France and Germany) have agreed to assure ILL operation till at least 2033.** </span>
+<span style="color:green"> **The associate partners of the ILL (UK, France and Germany) have agreed to assure ILL operation till at least 2033.** </span>
+
 For further information see the [Latest News on ILL Website](https://www.ill.eu/infos-presse-evenements/general-news/green-light-to-extend-ill-operations-until-2033) . 
 
 We are proud to have played a small part in bringing this about and thank UK neutron community and our committee for your continuous support. 
