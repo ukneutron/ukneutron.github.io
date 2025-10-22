@@ -10,7 +10,7 @@ sitemap: false
 [**Dr Adam Michalchuk**](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx)
 
 **Don McKenzie Paul Thesis Prize 2025 - Winner:**
-**Dr. Jennifer Nadine Graham**
+[**Dr. Jennifer Nadine Graham**](https://www.ill.eu/infos-presse-evenements/general-news/jennifer-graham-wins-the-don-mckenzie-paul-thesis-prize-2025)
 
 NSG Early Career Meeting 2025 to be held at Engineers House, Bristol, 21-22 August, 2025. [Open for Submitting abstract and Registration](https://iop.eventsair.com/nsecr2025).  
 
