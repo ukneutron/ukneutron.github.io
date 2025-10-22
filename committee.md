@@ -17,6 +17,7 @@ The NSG Committee consists of the following members:
 - Roger Johnson - Durham University 
 - Gregory Smith - ISIS Neutron and Muon Source
 - Carla Andreani - University of Rome Tor Vergata
-
+- Fabrizia Foglia - University College London
+  
   
 You can get in touch with the committee using the following email address: [committee@ukneutron.org](mailto:committee@ukneutron.org)
