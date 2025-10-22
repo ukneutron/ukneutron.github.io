@@ -5,17 +5,17 @@ sitemap: false
 ---
 
 The NSG Committee consists of the following members:
-- Lucy Clark (**Chair**)- University of Birmingham
-- Andrew McCluskey (**Treasurer**)- University of Bristol
+- Lucy Clark (**Chair**) - University of Birmingham
+- Svemir Rudic (**Secretary**) - ISIS Neutron and Muon Source
+- Andrew McCluskey (**Treasurer**) - University of Bristol
 - Richard Campbell (**ENSA Representative**) - University of Manchester
 - Nina-Juliane Steinke (**ILL Representative**) - Institut Laue-Langevin
 - Andrew Jackson  (**ESS Representative**) - European Spallation Source
-- Sanghamitra Mukhopadhyay (**ISIS Representative**)- ISIS Neutron and Muon Source
+- Sanghamitra Mukhopadhyay (**ISIS Representative**) - ISIS Neutron and Muon Source
 - Nicola Kelly (**ECR Representative**) - University of Cambridge
 - Eddie Cussen - TU Dublin
 - Roger Johnson - Durham University 
 - Gregory Smith - ISIS Neutron and Muon Source
-- Svemir Rudic - ISIS Neutron and Muon Source
 - Carla Andreani - University of Rome Tor Vergata
 
   
