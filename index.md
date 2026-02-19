@@ -24,7 +24,7 @@ We are proud to have played a small part in bringing this about and thank UK neu
 
 [**UK NSG ILL Position Statement**](https://ukneutron.org/general/2024/03/25/ILL-Position-Statement/)
 
-The Neutron Scattering Group is a group jointly hosted by Institute of Physics ([IOP](https://www.iop.org/physics-community/special-interest-groups/neutron-scattering-group)) and the Royal Society of Chemistry ([RSC](https://www.rsc.org/membership-and-community/connect-with-others/through-interests/interest-groups/neutron-scattering/)) to promote neutron science actively with its UK user community.
+The Neutron Scattering Group is a group jointly hosted by Institute of Physics ([IOP](https://www.iop.org/physics-community/special-interest-groups/neutron-scattering-group)) and the Royal Society of Chemistry ([RSC](https://members.rsc.org/site/content/Community/InterestGroups/NeutronScatteringGroup.aspx?formlink=interest_groups_search)) to promote neutron science actively with its UK user community.
 Our aims are to:
  
 - Organise events to develop UK neutron user links and discuss results from neutron experiments
@@ -34,7 +34,7 @@ Our aims are to:
  
 Our mission is to support and develop the UK neutron community in a rapidly changing global neutron landscape, and to represent UK neutron scattering externally.
 Additionally, we award the [BTM Willis Prize](./willis), Don McKenzie Paul Thesis Prize and the Thomas-Penfold Poster Prize annually. 
-Examples of activities include organising and contributing to conferences and schools involving neutron scattering research, e.g. the [Faraday Joint Interest Group Conferences](https://warwick.ac.uk/fac/sci/chemistry/news/events/faraday2017/) in 2017, 2021 and 2023, the biennial [Oxford School on Neutron Scattering](https://www.oxfordneutronschool.org/) and  [early career researcher meetings](https://ukneutron.org/early_career/) in 2020 and 2022.
+Examples of activities include organising and contributing to conferences and schools involving neutron scattering research, e.g. the [Faraday Joint Interest Group Conferences](https://warwick.ac.uk/fac/sci/chemistry/news/events/faraday2017/) in 2017, 2021 and 2023, the biennial [Oxford School on Neutron Scattering](https://www.oxfordneutronschool.org/) and  [early career researcher meetings](https://ukneutron.org/early_career/) in 2020, 2022 and 2025.
 
 
 
