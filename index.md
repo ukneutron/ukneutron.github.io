@@ -7,7 +7,7 @@ sitemap: false
 ---
 
 ***2026 BTM Willis Prize – [Now Open for Nominations](https://ukneutron.org/general/2026/01/25/btm-willis-noms-2025/)***
-[The closing date for nominations is 17:00 GMT on the 16th March 2026]
+The closing date for nominations is 17:00 GMT on the 16th March 2026
 
 **BTM Willis Prize 2025 - Winner:**
 [**Dr Adam Michalchuk**](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx)
