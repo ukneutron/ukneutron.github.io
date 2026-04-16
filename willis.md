@@ -4,6 +4,7 @@ indexing: false
 sitemap: false
 ---
 
+- 2026: [Dr Lewis Owen](https://sheffield.ac.uk/cmbe/people/cbe-academic-staff/lewis-owen), University of Sheffield  
 - 2025: [Dr Adam Michalchuk](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx), University of Birmingham
 - 2024: [Dr. Andrew McCluskey](https://www.isis.stfc.ac.uk/Pages/Dr-Andrew-McCluskey-wins-the-2024-BTM-Willis-Prize.aspx), University of Bristol
 - 2023: [Dr. Otto Mustonen](https://www.isis.stfc.ac.uk/Pages/News23_WillisPrize.aspx), University of Birmingham
