@@ -6,8 +6,8 @@ indexing: false
 sitemap: false
 ---
 
-**BTM Willis Prize 2025 - Winner:**
-[**Dr Adam Michalchuk**](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx)
+**BTM Willis Prize 2026 - Winner:**
+[**Dr Lewis Owen, University of Sheffield**](https://www.isis.stfc.ac.uk/Pages/BTM-Willis-Prize-2025.aspx)
 
 **Don McKenzie Paul Thesis Prize 2025 - Winner:**
 [**Dr. Jennifer Nadine Graham**](https://www.ill.eu/infos-presse-evenements/general-news/jennifer-graham-wins-the-don-mckenzie-paul-thesis-prize-2025)
