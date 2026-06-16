@@ -4,30 +4,23 @@ indexing: false
 sitemap: false
 ---
 
-
-
-.
-
 #### Associations
-**The European Neutron Scattering Association** [**(ENSA)**](https://ensa.ife.no)\
-**The League of advanced European Neutron Sources** [**(LENS)**](https://www.lens-initiative.org/)\
-**The Neutron Scattering Society of America** [**(NSSA)**](https://neutronscattering.org/)\
-**Asia-Oceania Neutron Scattering Association** [**(AONSA)**](http://aonsa.org/)\
-**Open Reflectometry Standards Organisation** [**(ORSO)**](https://www.reflectometry.org)
-
-.
-
+- **The European Neutron Scattering Association [**(ENSA)**](https://ensa.ife.no)
+- The League of advanced European Neutron Sources [**(LENS)**](https://www.lens-initiative.org/)
+- The Neutron Scattering Society of America [**(NSSA)**](https://neutronscattering.org/)
+- Asia-Oceania Neutron Scattering Association [**(AONSA)**](http://aonsa.org/)
+- Open Reflectometry Standards Organisation [**(ORSO)**](https://www.reflectometry.org)
 
 #### Tables
-[**Neutron scattering lengths and cross sections**](https://www.ncnr.nist.gov/resources/n-lengths/)
-
-.
+- [Neutron scattering lengths and cross sections](https://www.ncnr.nist.gov/resources/n-lengths/)
 
 #### Trainings
-**The Photon and Neutron Open Science Cloud** [**(PaNOSC)**](https://www.panosc.eu/)\
-[**HERCULES School: Neutrons & Synchrotron Radiation for Science**](https://hercules-school.eu/organisation-school)
+- The Photon and Neutron Open Science Cloud [**(PaNOSC)**](https://www.panosc.eu/)
+- [HERCULES School: Neutrons & Synchrotron Radiation for Science](https://hercules-school.eu/organisation-school)
 
-
+#### Mailing Lists
+- [Neutron Archives](https://lists.neutronsources.org/pipermail/neutron/)
+- [SFN-2FDN Monthly Bulletins](https://2fdn.cnrs.fr/en/monthly-bulletins-sfn-2fdn/)
 
 
 
