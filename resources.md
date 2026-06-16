@@ -5,11 +5,11 @@ sitemap: false
 ---
 
 #### Associations
-- **The European Neutron Scattering Association [**(ENSA)**](https://ensa.ife.no)
-- The League of advanced European Neutron Sources [**(LENS)**](https://www.lens-initiative.org/)
-- The Neutron Scattering Society of America [**(NSSA)**](https://neutronscattering.org/)
-- Asia-Oceania Neutron Scattering Association [**(AONSA)**](http://aonsa.org/)
-- Open Reflectometry Standards Organisation [**(ORSO)**](https://www.reflectometry.org)
+- **The European Neutron Scattering Association [(ENSA)](https://ensa.ife.no)
+- The League of advanced European Neutron Sources [(LENS)](https://www.lens-initiative.org/)
+- The Neutron Scattering Society of America [(NSSA)](https://neutronscattering.org/)
+- Asia-Oceania Neutron Scattering Association [(AONSA)](http://aonsa.org/)
+- Open Reflectometry Standards Organisation [(ORSO)](https://www.reflectometry.org)
 
 #### Tables
 - [Neutron scattering lengths and cross sections](https://www.ncnr.nist.gov/resources/n-lengths/)
