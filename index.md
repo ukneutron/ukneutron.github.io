@@ -16,7 +16,7 @@ We would like to make you aware of an Open Letter concerning recent STFC proriti
 
 [**Open Letter**](https://stfc-open-letter.co.uk/mdf-outcomes.html)
 
-Beyond this, we are seeking to work with the learned societies and the media to raise awareness of the importance of the UK's central facilities and the risks posed by the current prioritisation proposals. If you have any further suggestions for action or feel you may be able to help in this regard, please do get in touch. Thank you for your time and support.
+If you have any further suggestions, please do get in touch. Thank you for your time and support.
 
 You can find full details [here](https://www.ukri.org/who-we-are/our-vision-and-strategy/updates-on-our-2026-strategy-and-budget/stfc-prioritisation-outcomes/).
 
