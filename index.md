@@ -12,6 +12,14 @@ sitemap: false
 **Don McKenzie Paul Thesis Prize 2025 - Winner:**
 [**Dr. Jennifer Nadine Graham**](https://www.ill.eu/infos-presse-evenements/general-news/jennifer-graham-wins-the-don-mckenzie-paul-thesis-prize-2025)
 
+We would like to make you aware of an Open Letter concerning recent STFC proritisation announcements and their potential impact on Multidisciplinary Facilities including ISIS Neutron and Muon Source, Diamond and Central LASER Facility. If you are able to do so, we would be very grateful if you could sign the letter and share it with your wider network.
+
+[**Open Letter**](https://stfc-open-letter.co.uk/mdf-outcomes.html)
+
+Beyond this, we are seeking to work with the learned societies and the media to raise awareness of the importance of the UK's central facilities and the risks posed by the current prioritisation proposals. If you have any further suggestions for action or feel you may be able to help in this regard, please do get in touch. Thank you for your time and support.
+
+You can find full details [here](https://www.ukri.org/who-we-are/our-vision-and-strategy/updates-on-our-2026-strategy-and-budget/stfc-prioritisation-outcomes/).
+
 The future of UK neutron science - [Read the STFC review in full](https://www.isis.stfc.ac.uk/SiteAssets/STFC%20Neutron%20Review%202024.pdf).
 
 <span style="color:green"> **The associate partners of the ILL (UK, France and Germany) have agreed to assure ILL operation till at least 2033.** </span>
