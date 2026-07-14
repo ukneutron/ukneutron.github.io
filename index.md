@@ -20,7 +20,7 @@ If you have any further suggestions, please do [get in touch](mailto:l.m.clark@b
 
 You can find full details of STFC proritisation announcements [here](https://www.ukri.org/who-we-are/our-vision-and-strategy/updates-on-our-2026-strategy-and-budget/stfc-prioritisation-outcomes/).
 
-The future of UK neutron science - [Read the STFC review in full](https://www.isis.stfc.ac.uk/SiteAssets/STFC%20Neutron%20Review%202024.pdf).
+The future of UK neutron science - [Read the STFC review (2024) in full](https://www.isis.stfc.ac.uk/SiteAssets/STFC%20Neutron%20Review%202024.pdf).
 
 <span style="color:green"> **The associate partners of the ILL (UK, France and Germany) have agreed to assure ILL operation till at least 2033.** </span>
 
