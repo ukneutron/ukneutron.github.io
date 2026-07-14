@@ -18,7 +18,7 @@ We would like to make you aware of an Open Letter concerning recent STFC proriti
 
 If you have any further suggestions, please do get in touch. Thank you for your time and support.
 
-You can find full details [here](https://www.ukri.org/who-we-are/our-vision-and-strategy/updates-on-our-2026-strategy-and-budget/stfc-prioritisation-outcomes/).
+You can find full details of STFC proritisation announcements [here](https://www.ukri.org/who-we-are/our-vision-and-strategy/updates-on-our-2026-strategy-and-budget/stfc-prioritisation-outcomes/).
 
 The future of UK neutron science - [Read the STFC review in full](https://www.isis.stfc.ac.uk/SiteAssets/STFC%20Neutron%20Review%202024.pdf).
 
